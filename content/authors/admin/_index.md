@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Sen Zhao
 
 # Username (this should match the folder name)
 authors:
@@ -10,66 +10,88 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Hawaii at Mānoa
+  url: "https://manoa.hawaii.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest involves ENSO dynamics and global warming, atmospheric teleconnections, Planetary wave dynamics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Climate dynamics
+- Atmospheric teleconnections
+- Seasonal prediction
+- Waves
+- El Niño
+- Haze in China
+- Paleoclimate
+#- Ocean-Atmosphere Interactions
+# - Climate modes like El Niño, Indian Ocean Dipole, Pacific Decadal Oscillation
+# - Paleoclimate, Global Warming and Climate Change
+# - El Niño–Southern Oscillation (ENSO), Indian Ocean Dipole (IOD), Pacific Decadal Oscillation (PDO)
+# - Paleoclimate, Global Warming and Climate Change
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Meteorology
+    institution: Institute of Atmospheric Physics, Chinese Academy of Sciences
+    year: 2016
+  - course: BSc in College of Atmospheric Sciences and School of Mathematics and Statistics
+    institution: Lanzhou University
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=DSWiT8wAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Sen_Zhao5
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-5597-1109
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/2177739/sen-zhao/
+
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-  
+email: "zhaos@hawaii.edu"
+
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 - Visitors
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a post-doctoral fellow working with [Prof. Fei-Fei Jin](http://www.soest.hawaii.edu/met/Faculty/jff/Jin_feifei02010Jf.htm) at the [Department of Atmospheric Sciences](http://www.soest.hawaii.edu/met/) in [University of Hawai'i at Mānoa](http://manoa.hawaii.edu/).
+My research interest involves ocean-atmosphere coulped dynamics for ENSO and global warming, seasonal predictions and atmospheric teleconnections.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Before moving Hawaii, I was working as a graduate research assistant with [Prof. Jianping Li](http://ljp.gcess.cn/dct/page/65544) at [LASG](http://www.lasg.ac.cn/english/), [Institute of Atmospheric Physics, Chinese Academy of Sciences](http://www.iap.cas.cn/) in Beijing, China. 
+I was studying the theory of Rossby wave propagation on a horizontally non-uniform basic ﬂow and its application in atmospheric teleconnections.
+
+
