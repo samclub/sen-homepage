@@ -27,7 +27,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-# featured: false
+featured: false
 
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -60,7 +60,7 @@ url_video: ""
 
 # Enable math on this page?
 # math: true
-## ---
+---
 
 #{{% alert note %}}
 #Click on the **Slides** button above to view the built-in slides feature.
