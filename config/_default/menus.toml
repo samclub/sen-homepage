@@ -20,10 +20,8 @@
 
 [[main]]
   name = "Presentations"
-  url = "#presentations"
+  url = "#talks"
   weight = 30
-
-
 
 [[main]]
   name = "Contact"
