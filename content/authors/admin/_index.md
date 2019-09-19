@@ -18,7 +18,7 @@ organizations:
   url: "https://manoa.hawaii.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest involves ENSO dynamics and global warming, atmospheric teleconnections, Planetary wave dynamics.
+bio: My research interest involves coupled dynamics for ENSO and global warming, and atmospheric teleconnections.
 
 interests:
 - Climate dynamics
