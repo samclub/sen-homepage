@@ -34,10 +34,10 @@ featured: false
 #  focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+# - icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: "files/Sen_IOD-prediction_AOGS_04.05.pdf"
 url_slides: ""
