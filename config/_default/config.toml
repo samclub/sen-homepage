@@ -17,7 +17,7 @@ baseurl = "http://www2.hawaii.edu/~zhaos/"
 copyright = "&copy; Sen Zhao, {year} "
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-89402941-3"
 
 ############################
 ## Advanced options below ##
