@@ -91,7 +91,4 @@ user_groups:
 I am currently a post-doctoral fellow working with [Prof. Fei-Fei Jin](http://www.soest.hawaii.edu/met/Faculty/jff/Jin_feifei02010Jf.htm) at the [Department of Atmospheric Sciences](http://www.soest.hawaii.edu/met/) in [University of Hawai'i at Mānoa](http://manoa.hawaii.edu/).
 My research interest involves ocean-atmosphere coulped dynamics for ENSO and global warming, seasonal predictions and atmospheric teleconnections.
 
-Before moving Hawaii, I was working as a graduate research assistant with [Prof. Jianping Li](http://ljp.gcess.cn/dct/page/65544) at [LASG](http://www.lasg.ac.cn/english/), [Institute of Atmospheric Physics, Chinese Academy of Sciences](http://www.iap.cas.cn/) in Beijing, China. 
-I was studying the theory of Rossby wave propagation on a horizontally non-uniform basic ﬂow and its application in atmospheric teleconnections.
-
-
+Before moving Hawaii, I was working as a graduate research assistant with [Prof. Jianping Li](http://ljp.gcess.cn/dct/page/65544) at [LASG](http://www.lasg.ac.cn/english/), [Institute of Atmospheric Physics, Chinese Academy of Sciences](http://www.iap.cas.cn/) in Beijing, China. I refined the theory of Rossby wave propagation on a horizontally non-uniform basic ﬂow (include both zonal and meridional flow). The new Rossby wave theory is valuable to understand the atmospheric teleconnections between the tropics and extra-tropics, and between the Northern Hemisphere (NH) and Southern Hemisphere (SH), especially the linkages across the easterlies. I also investigated the decadal climate variability impacts on the haze pollution over central and eastern China.
