@@ -21,6 +21,8 @@ Indian Ocean Dipole (IOD) is an ocean-atmosphere coupled phenomenen in Indian Oc
 
 In [Saji's post](http://enformtk.u-aizu.ac.jp/blog/2019/08/29/iod-at-last/), the 2019 August SST anomaly pattern shows a classic IOD over Indian Ocean and the cold SST anomaly over eastern equatorial Pacific. **It is still hard to conclude the 2019 IOD event is indenpendent with ENSO.** 
 
-According to the null hypothesis framework for the IOD ([Stuecker et al. 2017, GRL](publication/2017_stuecker_grl_iod/); [Zhao et al. 2019, GRL](publication/2019_zhaos_grl_iod)), the dynamical evolution of IOD SST can be written as
+According to the null hypothesis framework for the IOD ([Stuecker et al. 2017, GRL]("publication/2017_stuecker_grl_iod/"); [Zhao et al. 2019, GRL]("publication/2019_zhaos_grl_iod"), the dynamical evolution of IOD SST can be written as
 
-$$dT/dt=-\lambda_0\ [1+D\cos\funcapply(\omega t+\varphi_D\ )\ ]T(t)+α_0 [1+A cos⁡(ωt+φ_A ) ] T_ENSO (t)+σ_0 ξ(t)$$
+$$dT/dt=-\lambda_0\ [1+D\cos(\omega t+\varphi_D\ )\ ]T(t)+ \alpha_0 [1+A \cos⁡(\omega t+\varphi_A ) ] T_{ENSO} (t)+\sigma_0 \xi(t)$$
+
+where $T$ is the monthly DMI, $T_{ENSO}\left(t\right)$ the monthly Niño-3.4 index, $\lambda\left(t\right)$ the damping rate of $T$, $\alpha\left(t\right)$ the ENSO forcing strength, $\xi\left(t\right)$ the stochastic forcing, and $\sigma_0$ the magnitude of stochastic forcing. 
