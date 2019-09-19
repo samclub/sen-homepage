@@ -14,8 +14,4 @@ header:
   image: ""
 ---
 
-Google Scholar Metrics: h-index: 11; total citations: 357; total published articles: 33 (as of 18th September 2019)
-
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=DSWiT8wAAAAJ
+[Google Scholar](https://scholar.google.com/citations?user=DSWiT8wAAAAJ) Metrics: h-index: 11; total citations: 357; total published articles: 33 (as of August 29, 2019)
