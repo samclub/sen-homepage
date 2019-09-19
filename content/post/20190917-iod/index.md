@@ -2,14 +2,15 @@
 title: "The 2019 Indian Ocean Dipole event"
 date: 2019-09-17
 authors: ["admin"]
-publication_types: ["2"]
+math: true
+diagram: true
+markup: mmark
 tags: ["IOD", "Prediction"]
 featured: true
-
 comments: true  # Show comments?
 
 image:
-  placement: 2
+  placement: 3
   caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
   focal_point: "Center"
   preview_only: false
@@ -18,6 +19,8 @@ image:
 
 Indian Ocean Dipole (IOD) is an ocean-atmosphere coupled phenomenen in Indian Ocean. [Dr. Saji N Hameed](https://www.researchgate.net/project/Realtime-monitoring-of-the-Indian-Ocean-Dipole) says 2019 could be one of strongest IOD years ever, which may influence the weather and climate over Australia, India, Indonesia, Singapore this year. More information about the ongoing 2019 IOD event can be seen from [Saji N Hameed's blog](http://enformtk.u-aizu.ac.jp/blog/).
 
-In [Saji's post](http://enformtk.u-aizu.ac.jp/blog/2019/08/29/iod-at-last/), the classic IOD SST anomaly over Indian Ocean co-occured with the cold SST anomaly over eastern equatorial Pacific on August. *It is still hard to conclude the 2019 IOD event is indenpendent with ENSO.* 
+In [Saji's post](http://enformtk.u-aizu.ac.jp/blog/2019/08/29/iod-at-last/), the 2019 August SST anomaly pattern shows a classic IOD over Indian Ocean and the cold SST anomaly over eastern equatorial Pacific. **It is still hard to conclude the 2019 IOD event is indenpendent with ENSO.** 
 
+According to the null hypothesis framework for the IOD ([Stuecker et al. 2017, GRL](publication/2017_stuecker_grl_iod/); [Zhao et al. 2019, GRL](publication/2019_zhaos_grl_iod)), the dynamical evolution of IOD SST can be written as
 
+$$dT/dt=-\lambda_0\ [1+D\cos\funcapply(\omega t+\varphi_D\ )\ ]T(t)+α_0 [1+A cos⁡(ωt+φ_A ) ] T_ENSO (t)+σ_0 ξ(t)$$
