@@ -25,17 +25,17 @@
 
 [[main]]
   name = "Courses"
-  url = "course"
+  url = "course/"
   weight = 60
 
 [[main]]
   name = "Software"
-  url = "software"
+  url = "software/"
   weight = 70
 
 [[main]]
   name = "Links"
-  url = "link"
+  url = "link/"
   weight = 80
 
 [[main]]
