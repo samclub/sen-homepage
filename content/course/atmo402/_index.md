@@ -21,3 +21,5 @@ menu:
     weight: 1
 ---
 
+Guest Lecturer
+Instructor: Fei-Fei Jin
