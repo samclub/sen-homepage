@@ -8,11 +8,7 @@
     {{- if gt $index 0 }}, {{ end -}}
     <span>
       {{- with $profile_page -}}
-        {{ if site.Params.publications.links_authors }} <!-- Create a link for authors of the publication -->
           <a href="{{.RelPermalink}}">{{$name}}</a>
-        {{- else -}}
-          <a>{{$name}}</a>
-        {{- end -}}
       {{- else -}}
         {{$name}}
       {{- end -}}

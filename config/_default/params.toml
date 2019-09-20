@@ -179,7 +179,6 @@ plugins_js  = []
   citation_style = "apa"
 
   links_title   = true
-  links_authors = true
 
 # Configuration of project pages.
 [projects]
