@@ -6,6 +6,6 @@ google_fonts = "Palatino:400,400italic,700|Spectral:400,400i,700"
 
 # Font families
 heading_font = "Spectral"
-body_font = "Palatino"
-nav_font = "Palatino"
+body_font = "Spectral"
+nav_font = "Spectral"
 mono_font = "Spectral"
