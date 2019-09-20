@@ -2,7 +2,7 @@
 name = "default"
 
 # Optional Google font URL
-google_fonts = "Palatino:400,400italic,700|Spectral:400,400italic,700"
+google_fonts = "Palatino:400,400italic,700|Spectral:400,400i,700"
 
 # Font families
 heading_font = "Spectral"
