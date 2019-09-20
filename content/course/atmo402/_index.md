@@ -16,7 +16,7 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  uhmatmo402:
+  atmo402:
     name: Overview
     weight: 1
 ---
