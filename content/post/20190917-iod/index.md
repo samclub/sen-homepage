@@ -7,7 +7,7 @@ authors: ["admin"]
 math: true
 diagram: true
 markup: mmark
-tags: ["IOD", "Prediction"]
+tags: ["IOD"]
 featured: false
 comments: true  # Show comments?
 

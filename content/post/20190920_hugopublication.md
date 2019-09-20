@@ -10,7 +10,7 @@ lastmod: 2019-09-20
 math: true
 diagram: true
 markup: mmark
-tags: ["", ""]
+tags: ["hugo-academic"]
 featured: false
 draft: false
 comments: false  # Show comments?
@@ -31,4 +31,4 @@ image:
 projects: []
 ---
 
-I found a very useful tool to importing publications from bibtex to a hugo-academic blog. It was developed by [Lorenzo Busetto](https://lbusett.netlify.com/) in his [blog](https://lbusett.netlify.com/post/automatically-importing-publications-from-bibtex-to-a-hugo-academic-blog/).
+I found a very useful tool to importing publications from bibtex to a hugo-academic blog. It was developed by [Lorenzo Busetto](https://lbusett.netlify.com/) and was first published on in his [Website & Blog](https://lbusett.netlify.com/post/automatically-importing-publications-from-bibtex-to-a-hugo-academic-blog/).
