@@ -6,7 +6,7 @@ authors: ["Feng Shi", "Quansheng Ge", "Bao Yang", "Jianping Li", "Fengmei Yang",
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Climatic Change*"
+publication: "*Climatic Change*, 131(4):663-676"
 url_pdf: "https://link-springer-com.eres.library.manoa.hawaii.edu/article/10.1007/s10584-015-1413-3"
 doi: "10.1007/s10584-015-1413-3"
 ---

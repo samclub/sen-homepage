@@ -6,7 +6,7 @@ authors: ["Dildar Hussain Kazmi", "Jianping Li", "Chengqing Ruan", "Sen Zhao", "
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Climate Dynamics*"
+publication: "*Climate Dynamics*, 47(7-8):2653-2666"
 doi: "10.1007/s00382-016-2990-1"
 ---
 

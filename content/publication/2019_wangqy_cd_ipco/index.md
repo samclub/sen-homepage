@@ -6,7 +6,7 @@ authors: ["Qiuyun Wang", "Jianping Li", "Yanjie Li", "Jiaqing Xue", "Sen Zhao", 
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Climate Dynamics*"
+publication: "*Climate Dynamics*, 52(1-2):913-927"
 url_pdf: "https://doi.org/10.1007/s00382-018-4264-6"
 doi: "10.1007/s00382-018-4264-6"
 ---

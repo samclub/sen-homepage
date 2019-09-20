@@ -6,7 +6,7 @@ authors: ["Feng Shi", "Bao Yang", "Sen Zhao", "Fengmei Yang"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Quaternary Sciences*"
+publication: "*Quaternary Sciences*, 34(6):1125-1135"
 url_pdf: "http://www.dsjyj.com.cn/CN/abstract/abstract10960.shtml"
 doi: "10.3969/j.issn.1001-7410.2014.06.01"
 ---

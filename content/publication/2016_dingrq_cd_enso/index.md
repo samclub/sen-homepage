@@ -6,7 +6,7 @@ authors: ["Ruiqiang Ding", "Jianping Li", "Yu-heng Tseng", "Kyung-Ja Ha", "Sen Z
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Climate Dynamics*"
+publication: "*Climate Dynamics*, 47(9-10):2867-2884"
 doi: "10.1007/s00382-016-3002-1"
 ---
 
