@@ -3,9 +3,9 @@ title: Dynamics of an interhemispheric teleconnection across the critical latitu
 event: 2014 LASG Annual Meeting
 event_url: http://www.lasg.ac.cn/zhxw/201412/t20141229_305078.html
 
-location: University of Chinese Academy of Sciences, Huairou
+location: Beijing, China
 address:
-#  street: No.7 Tianchen East Road, Chaoyang District
+  street: University of Chinese Academy of Sciences, Huairou
   city: Beijing
 #  region: HI
 #  postcode: '100105'

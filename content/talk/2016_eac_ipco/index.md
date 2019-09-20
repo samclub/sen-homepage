@@ -3,9 +3,9 @@ title: Interhemispheric influence of the Indo-Pacific convection oscillation on 
 event: The 13th General Circulation Model Simulations of the East Asian Climate (EAC) workshop
 event_url: http://www.asiaoceania.org/aogs2016/public.asp?page=home.htm
 
-location: Beijing Normal University
+location: Beijing, China
 address:
-  street: 19 Xinjiekou Outer St, Haidian District
+  street: Beijing Normal University, 19 Xinjiekou Outer St, Haidian District
   city: Beijing
 #  region: HI
   postcode: '100089'

@@ -6,9 +6,9 @@ title: Decadal Variability in the Occurrence of Wintertime Haze in Central Easte
 event: AOGS 15th AnnualMeeting
 event_url: http://www.asiaoceania.org/aogs2018/public.asp?page=home.htm
 
-location: Hawaii Convention Centre
+location: Honolulu, Hawaii
 address:
-  street: 1801 Kalakaua Avenue
+  street: Hawaii Convention Centre, 1801 Kalakaua Avenue
   city: Honolulu
   region: HI
   postcode: '96815'
@@ -20,7 +20,7 @@ abstract:
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2018-06-06T11:00:00Z"
 date_end: "2018-06-06T12:30:00Z"
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2017-01-01T00:00:00Z

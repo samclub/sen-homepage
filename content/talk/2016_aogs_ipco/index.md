@@ -3,9 +3,9 @@ title: Interhemispheric influence of the Indo-Pacific convection oscillation on 
 event: AOGS 13th Annual Meeting
 event_url: http://www.asiaoceania.org/aogs2016/public.asp?page=home.htm
 
-location: China National Convention Center
+location: Beijing, China
 address:
-  street: No.7 Tianchen East Road, Chaoyang District
+  street: China National Convention Center
   city: Beijing
 #  region: HI
   postcode: '100105'
