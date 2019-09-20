@@ -6,10 +6,10 @@ event_url: http://icdm2012.csp.escience.cn/
 location: Kunming, China
 address:
 #  street: No.7 Tianchen East Road, Chaoyang District
-  city: Kunming
-#  region: HI
-#  postcode: '100105'
-  country: China
+#   city: Kunming
+# #  region: HI
+# #  postcode: '100105'
+#   country: China
 
 #summary: An example talk using Academic's Markdown slides feature.
 #abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
