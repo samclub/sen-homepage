@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "{{ replace .Name "-" " " | title }}"
-linktitle: "{{ replace .Name "-" " " | title }}"
+title: "abc course"
+linktitle: "abc course"
 summary:
-date: {{ .Date }}
-lastmod: {{ .Date }}
+date: 2019-04-02
+# lastmod: {{ .Date }}
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -21,3 +21,6 @@ menu:
     # parent: YourParentID
     weight: 1
 ---
+
+
+This is test file
