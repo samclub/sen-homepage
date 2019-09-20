@@ -1,23 +1,23 @@
 ---
-title: Dynamics of an interhemispheric teleconnection across the critical latitude through a southerly duct during boreal winter
-event: 2014 LASG Annual Meeting
-event_url: http://www.lasg.ac.cn/zhxw/201412/t20141229_305078.html
+title: The Hemispheric Propagation of Stationary waves in Atmosphere
+event: EGU General Assembly 2013
+event_url: https://www.egu2013.eu/
 
-location: University of Chinese Academy of Sciences, Huairou
+location: Vienna, Austria
 address:
 #  street: No.7 Tianchen East Road, Chaoyang District
-  city: Beijing
+  city: Vienna
 #  region: HI
 #  postcode: '100105'
-  country: China
+  country: Austria
 
 #summary: An example talk using Academic's Markdown slides feature.
 #abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2014-12-24"
-date_end: "2014-12-25"
+date: "2013-04-07"
+date_end: "2013-04-12"
 all_day: true
 
 # Schedule page publish date (NOT talk date).

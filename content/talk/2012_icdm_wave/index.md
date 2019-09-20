@@ -1,12 +1,12 @@
 ---
-title: Dynamics of an interhemispheric teleconnection across the critical latitude through a southerly duct during boreal winter
-event: 2014 LASG Annual Meeting
-event_url: http://www.lasg.ac.cn/zhxw/201412/t20141229_305078.html
+title: The Hemispheric Propagation of Stationary waves in Atmosphere
+event: International Commission on Dynamical Meteorology (ICDM) Workshop 2012
+event_url: http://icdm2012.csp.escience.cn/
 
-location: University of Chinese Academy of Sciences, Huairou
+location: Kunming, China
 address:
 #  street: No.7 Tianchen East Road, Chaoyang District
-  city: Beijing
+  city: Kunming
 #  region: HI
 #  postcode: '100105'
   country: China
@@ -16,8 +16,8 @@ address:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2014-12-24"
-date_end: "2014-12-25"
+date: "2012-08-06"
+date_end: "2012-08-09"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
