@@ -1,4 +1,3 @@
-
 ---
 title: "Group meeting "
 date: 2019-09-19
@@ -6,9 +5,9 @@ authors: ["admin"]
 math: true
 diagram: true
 markup: mmark
-tags: ["IOD", "Prediction"]
-featured: true
-comments: true  # Show comments?
+tags: ["", ""]
+featured: false
+comments: false  # Show comments?
 
 image:
   placement: 3

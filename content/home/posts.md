@@ -25,8 +25,8 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
+    tag              = ""
+    category         = ""
     publication_type = ""
     exclude_featured = false
 
@@ -36,7 +36,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 2
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -48,7 +48,7 @@ subtitle = ""
   # color = "navy"
 
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
+  # gradient_start = "White"
   # gradient_end = "SkyBlue"
 
   # Background image.
