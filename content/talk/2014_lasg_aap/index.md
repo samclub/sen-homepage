@@ -1,14 +1,14 @@
 ---
-title: Interhemispheric influence of the Indo-Pacific convection oscillation on Southern Hemisphere rainfall
-event: The 13th General Circulation Model Simulations of the East Asian Climate (EAC) workshop
-event_url: http://www.asiaoceania.org/aogs2016/public.asp?page=home.htm
+title: Dynamics of an interhemispheric teleconnection across the critical latitude through a southerly duct during boreal winter,
+event: LASG Annual Meeting
+event_url: http://www.lasg.ac.cn/zhxw/201412/t20141229_305078.html
 
-location: Beijing Normal University
+location: University of Chinese Academy of Sciences, Huairou
 address:
-  street: 19 Xinjiekou Outer St, Haidian District
+#  street: No.7 Tianchen East Road, Chaoyang District
   city: Beijing
 #  region: HI
-  postcode: '100089'
+#  postcode: '100105'
   country: China
 
 #summary: An example talk using Academic's Markdown slides feature.
@@ -16,8 +16,8 @@ address:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2016-03-24"
-date_end: "2016-03-25"
+date: "2014-12-24"
+date_end: "2014-12-25"
 all_day: true
 
 # Schedule page publish date (NOT talk date).

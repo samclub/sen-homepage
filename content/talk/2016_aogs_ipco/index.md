@@ -18,7 +18,7 @@ address:
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2016-07-31"
 date_end: "2016-08-05"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
