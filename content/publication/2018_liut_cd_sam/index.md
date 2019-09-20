@@ -6,7 +6,7 @@ authors: ["Ting Liu", "Jianping Li", "YanJie Li", "Sen Zhao", "Fei Zheng", "Jiay
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Climate Dynamics*"
+publication: "*Climate Dynamics*, 51(11-12);4095-4107"
 url_pdf: "https://link-springer-com/article/10.1007/s00382-017-3753-3"
 doi: "10.1007/s00382-017-3753-3"
 ---

@@ -6,7 +6,7 @@ authors: ["Xin Zhou", "Jianping Li", "Fei Xie", "Ruiqiang Ding", "Yanjie Li", "S
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Climate Dynamics*"
+publication: "*Climate Dynamics*, 51(11-12):4043-4064"
 url_pdf: "https://doi.org/10.1007/s00382-017-3584-2"
 doi: "10.1007/s00382-017-3584-2"
 ---

@@ -6,7 +6,7 @@ authors: ["Jianhuang Qin", "Ruiqiang Ding", "Zhiwei Wu", "Jianping Li", "Sen Zha
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Advances in Atmospheric Sciences*"
+publication: "*Advances in Atmospheric Sciences*, 34(3):360-370"
 url_pdf: "https://doi.org/10.1007/s00376-016-6016-z"
 doi: "10.1007/s00376-016-6016-z"
 ---

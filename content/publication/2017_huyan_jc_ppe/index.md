@@ -6,7 +6,7 @@ authors: ["Lidou Huyan", "Jianping Li", "Sen Zhao", "Cheng Sun", "Di Dong", "Tin
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Journal of Climate*"
+publication: "*Journal of Climate*, 30(17):7087-7103"
 url_pdf: "https://doi.org/10.1175/JCLI-D-16-0729.1"
 doi: "10.1175/JCLI-D-16-0729.1"
 ---

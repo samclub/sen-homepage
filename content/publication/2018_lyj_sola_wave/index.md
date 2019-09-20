@@ -6,7 +6,7 @@ authors: ["Yanjie Li", "Jin Feng", "Jianping Li", "Sen Zhao"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*SOLA*"
+publication: "*SOLA*, 14:121-125"
 doi: "10.2151/sola.2018-021"
 ---
 

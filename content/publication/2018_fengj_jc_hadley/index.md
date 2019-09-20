@@ -6,7 +6,7 @@ authors: ["Juan Feng", "Jianping Li", "Feifei Jin", "Sen Zhao", "Jianlei Zhu"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Journal of Climate*"
+publication: "*Journal of Climate*, 31(16):6575-6590"
 url_pdf: "https://doi.org/10.1175/JCLI-D-18-0095.1"
 doi: "10.1175/JCLI-D-18-0095.1"
 ---

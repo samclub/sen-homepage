@@ -6,7 +6,7 @@ authors: ["Fei Zheng", "Jianping Li", "Yanjie Li", "Sen Zhao", "Difei Deng"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Journal of Applied Meteorology and Climatology*"
+publication: "*Journal of Applied Meteorology and Climatology*, 55(7):1459-1476"
 url_pdf: "https://journals.ametsoc.org/doi/abs/10.1175/JAMC-D-15-0199.1"
 doi: "10.1175/JAMC-D-15-0199.1"
 ---

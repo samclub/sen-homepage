@@ -6,7 +6,7 @@ authors: ["Panxing Lou", "Jianping Li", "Juan Feng", "Sen Zhao", "Yanjie Li"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Atmospheric and Oceanic Science Letters*"
+publication: "*Atmospheric and Oceanic Science Letters*, 9(6):479-486"
 doi: "10.1080/16742834.2016.1235464"
 ---
 

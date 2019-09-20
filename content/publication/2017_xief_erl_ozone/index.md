@@ -6,7 +6,7 @@ authors: ["Fei Xie", "Jianping Li", "Jiankai Zhang", "Wenshou Tian", "Yongyun Hu
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Environmental Research Letters*"
+publication: "*Environmental Research Letters*, 12(11):114023"
 doi: "10.1088/1748-9326/aa9005"
 ---
 

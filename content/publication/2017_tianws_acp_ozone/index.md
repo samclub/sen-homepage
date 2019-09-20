@@ -6,7 +6,7 @@ authors: ["Wenshou Tian", "Yuanpu Li", "Fei Xie", "Jiankai Zhang", "Martyn P Chi
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Atmospheric Chemistry and Physics*"
+publication: "*Atmospheric Chemistry and Physics*, 17(11):6705-6722"
 doi: "10.5194/acp-17-6705-2017"
 ---
 

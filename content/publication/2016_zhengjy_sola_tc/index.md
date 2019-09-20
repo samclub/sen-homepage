@@ -6,7 +6,7 @@ authors: ["Jiayu Zheng", "Qiaoyan Wu", "Yipeng Guo", "Sen Zhao"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*SOLA*"
+publication: "*SOLA*, 12:242-246"
 doi: "10.2151/sola.2016-048"
 ---
 

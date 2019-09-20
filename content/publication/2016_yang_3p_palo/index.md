@@ -6,7 +6,7 @@ authors: ["Fengmei Yang", "Naiang Wang", "Feng Shi", "Fredrik Charpentier Ljungq
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Palaeogeography, Palaeoclimatology, Palaeoecology*"
+publication: "*Palaeogeography, Palaeoclimatology, Palaeoecology*, 443:278-285"
 doi: "10.1016/j.palaeo.2015.12.003"
 ---
 

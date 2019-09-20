@@ -6,7 +6,7 @@ authors: ["Yanjie Li", "Jianping Li", "Fred Kucharski", "Jin Feng", "Sen Zhao", 
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Climate Dynamics*"
+publication: "*Climate Dynamics*, 51(5-6):2141-2156"
 url_pdf: "https://link-springer-com/article/10.1007/s00382-017-4004-3"
 doi: "10.1007/s00382-017-4004-3"
 ---
