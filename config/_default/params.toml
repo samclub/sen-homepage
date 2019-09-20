@@ -75,7 +75,7 @@ privacy_pack = true
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+edit_page = {repo_url = "https://github.com/samclub/sen-homepage", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 ############################
 ## Contact details
@@ -158,7 +158,7 @@ reading_time = true
 
 # Display next/previous section pager? (true/false)
 section_pager = false
-docs_section_pager = false  # Display pager in Docs layout (e.g. tutorials)?
+docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
 sharing = true
@@ -202,7 +202,7 @@ plugins_js  = []
   engine = 1
 
   # Which page types are commentable?
-  commentable = {page = false, post = true, docs = false, project = false, publication = false, talk = false}
+  commentable = {page = false, post = true, docs = false, project = false, publication = true, talk = true}
 
   # Configuration of Disqus.
   [comments.disqus]

@@ -9,6 +9,6 @@ featured: false
 publication: "*Journal of the Atmospheric Sciences*, 72(8):3233-3256"
 url_pdf: "http://journals.ametsoc.org/doi/full/10.1175/JAS-D-14-0239.1"
 doi: "10.1175/JAS-D-14-0239.1"
-tags: ["Rossby Wave", "Rossby Ray Tracing"]
+tags: ["Rossby Wave", "Wave Ray Tracing", "Teleconncection"]
 ---
 

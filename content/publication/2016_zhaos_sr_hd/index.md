@@ -9,5 +9,6 @@ featured: true
 publication: "*Scientific Reports*, 6:27424"
 url_pdf: "https://www.nature.com/articles/srep27424"
 doi: "10.1038/srep27424"
+tags: ["PDO", "Haze days"]
 ---
 

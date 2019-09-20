@@ -7,4 +7,5 @@ publication_types: ["6"]
 abstract: ""
 featured: false
 publication: "*AGU Monograph Series: ENSO in a Changing Climate*. eds: A. Santoso, W. Cai, and M. J. McPhaden"
+tags: ["ENSO"]
 ---

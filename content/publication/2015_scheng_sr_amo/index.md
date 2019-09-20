@@ -9,5 +9,6 @@ featured: false
 publication: "*Scientific Reports*, 5:16853"
 url_pdf: "https://www.nature.com/articles/srep16853"
 doi: "10.1038/srep16853"
+tags: ["Rossby Wave", "Wave Ray Tracing", "Teleconncection"]
 ---
 

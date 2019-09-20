@@ -9,5 +9,6 @@ featured: false
 publication: "*Nature Climate Change*, 8(12):1076-1081"
 url_pdf: "https://www-nature-com/articles/s41558-018-0339-y"
 doi: "10.1038/s41558-018-0339-y"
+tags: ["Polar Amplification"]
 ---
 
