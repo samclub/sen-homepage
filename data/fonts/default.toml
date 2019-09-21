@@ -2,10 +2,10 @@
 name = "default"
 
 # Optional Google font URL
-google_fonts = "Palatino:400,400italic,700|Georgia:400,400italic,700"
+google_fonts = "Montserrat:400,700|Palatino:400,400italic,700|Georgia:400,400italic,700"
 
 # Font families
-heading_font = "Georgia"
+heading_font = "Palatino"
 body_font = "Palatino"
-nav_font = "Palatino"
-mono_font = "Georgia"
+nav_font = "Montserrat"
+mono_font = "Palatino"
