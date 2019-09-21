@@ -1,20 +1,21 @@
 ---
-title: "Improved Predictability of the Indian Ocean Dipole using a Stochastic-Dynamical Model compared to the North American Multi-model Ensemble Forecast"
-authors: ["Sen Zhao", "Malte F. Stuecker", "Fei-Fei Jin", "Juan Feng", "Hong-Li Ren", "Wenjun Zhang", "Jianping Li"]
-date: 2019-12-31
+title: "Theory of Cross-Equatorial Propagation of Planetary Wave in Horizontally Non-Uniform Basic
+Flow and Its Applications in Atmospheric Teleconnections"
+authors: ["Sen Zhao"]
+date: 2016-06-21
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-09-20T01:50:18.496584Z
+publishDate: 2016-09-20T01:50:18.496584Z
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "University of Chinese Academy of Sciences, Beijing, China"
 publication_short: ""
 
 abstract: ""
@@ -22,7 +23,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["IOD", "ENSO"]
+tags: ["Rossby Wave", "Wave Ray Tracing", "Teleconnection"]
 categories: []
 featured: false
 
