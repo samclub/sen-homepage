@@ -2,16 +2,20 @@
 
 {{ $taxonomy := "authors" }}
 {{ with .Param $taxonomy }}
-  {{ range $index, $value := . }}
-    {{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy (. | urlize)) -}}
-    {{- $name := $profile_page.Params.name | default ($value|markdownify) -}}
-    {{- if gt $index 0 }}, {{ end -}}
-    <span>
-      {{- with $profile_page -}}
-          <a href="{{.RelPermalink}}">{{$name}}</a>
-      {{- else -}}
-        {{$name}}
-      {{- end -}}
-    </span>
+{{ range $index, $value := . }}
+{{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy (. | urlize)) -}}
+{{- $name := $profile_page.Params.name | default ($value|markdownify) -}}
+{{- if gt $index 0 }}, {{ end -}}
+<span>
+  {{- with $profile_page -}}
+  {{- if eq $name "Sen Zhao" -}}
+  <b><a href="{{.RelPermalink}}">{{$name}}</a></b>
+  {{- else -}}
+  <a href="{{.RelPermalink}}">{{$name}}</a>
   {{- end -}}
+  {{- else -}}
+  {{$name}}
+  {{- end -}}
+</span>
+{{- end -}}
 {{ end }}
