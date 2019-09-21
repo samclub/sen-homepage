@@ -154,7 +154,7 @@ gravatar = false
 menu_align_right = true
 
 # Show estimated reading time for posts? (true/false)
-reading_time = true
+reading_time = false
 
 # Display next/previous section pager? (true/false)
 section_pager = false
@@ -177,8 +177,9 @@ plugins_js  = []
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"
-
   links_title   = true
+
+
 
 # Configuration of project pages.
 [projects]
