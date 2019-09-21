@@ -28,7 +28,7 @@ googleAnalytics = "UA-89402941-3"
 theme = "academic"
 
 # Get last modified date for content from Git?
-enableGitInfo = true
+enableGitInfo = false
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
