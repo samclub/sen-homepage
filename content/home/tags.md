@@ -13,10 +13,10 @@ subtitle = ""
   taxonomy = "tags"
   
   # Choose how many tags you would like to display (0 = all tags)
-  count = 10
+  count = 20
 
 [design]
   # Minimum and maximum font sizes (1.0 = 100%).
-  font_size_min = 0.9
-  font_size_max = 2.0
+  font_size_min = 0.5
+  font_size_max = 1.5
 +++
