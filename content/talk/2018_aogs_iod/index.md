@@ -39,7 +39,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "files/Sen_IOD-prediction_AOGS_04.05.pdf"
+url_pdf: "files/talk/Sen_IOD-prediction_AOGS_04.05.pdf"
 url_slides: ""
 url_video: ""
 

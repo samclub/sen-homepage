@@ -8,11 +8,7 @@
 {{- if gt $index 0 }}, {{ end -}}
 <span>
   {{- with $profile_page -}}
-  {{- if eq $name "Sen Zhao" -}}
-  <b><a href="{{.RelPermalink}}">{{$name}}</a></b>
-  {{- else -}}
   <a href="{{.RelPermalink}}">{{$name}}</a>
-  {{- end -}}
   {{- else -}}
   {{$name}}
   {{- end -}}
