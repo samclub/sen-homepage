@@ -11,7 +11,7 @@ date: 2019-09-20
 lastmod: 2019-09-20
 featured: false
 draft: false
-share: false
+share: True
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -29,7 +29,7 @@ image:
 projects: []
 ---
     
-<!-- {{% toc %}} -->
+{{% toc %}}
 
 ## Climate Data Archives
 

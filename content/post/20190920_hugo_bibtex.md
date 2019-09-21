@@ -4,8 +4,8 @@ subtitle: ""
 summary: ""
 authors: ["admin"]
 
-date: 2019-09-19
-lastmod: 2019-09-19
+date: 2019-09-19T00:00:00Z
+lastmod: 2019-09-19T00:00:00Z
 
 math: true
 diagram: true

@@ -14,7 +14,7 @@ publishDate: 2019-09-20T01:50:18.496584Z
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*submitted*"
 publication_short: ""
 
 abstract: ""

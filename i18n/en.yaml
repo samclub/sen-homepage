@@ -155,8 +155,8 @@
   translation: Journal article
 
 - id: pub_preprint
-  translation: Submitted
-# translation: Preprint
+  # translation: Submitted
+  translation: Preprint
 
 - id: pub_report
   translation: Report

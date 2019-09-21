@@ -2,7 +2,8 @@
 title: "The 2019 Indian Ocean Dipole event"
 subtitle: ""
 summary: ""
-date: 2019-09-17
+date: 2019-09-17T00:00:00Z
+lastmod: 2019-09-17T00:00:00Z
 authors: ["admin"]
 math: true
 diagram: true
