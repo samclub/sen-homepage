@@ -31,11 +31,8 @@ WNWR is a software package for inverstigating the Rossby wave propagation in a h
 - The temporal variability of Rossby wave propagation.
 - A verification of the wave energy dispersion pathways
 
-[Zhao et al. 2015]({{< ref "/publication/2015_zhaos_jc_app/index.md" >}})
-[Li et al. 2015]({{< ref "/publication/2015_lyj_jas_wave/index.md" >}})
-
 We have used it to examine the energy dispersion trajectory in several published papers.
 
 ## Availability to the code
 
-The package code is written in Fortran 90 language. For those finding of interest in using the [WNWR package]({{< ref "software/wnwr" >}}), please ask Prof. Jianping Li (Email: [ljp@ouc.edu.cn](mailto:ljp@ouc.edu.cn)) or myself (Email: [zhaos@hawaii.edu](mailto:zhaos@hawaii.edu)) to get the package code. I would appreciated if you can briefly introduce your plan about the use of this package.
+The package code is written in Fortran 90 language. For those finding of interest in using the [WNWR package]({{< ref "software/wnwr" >}}), please ask Prof. Jianping Li (Email: [ljp@ouc.edu.cn](mailto:ljp@ouc.edu.cn)) or myself (Email: [zhaos@hawaii.edu](mailto:zhaos@hawaii.edu)) to get the package code. We would appreciated if you can briefly introduce your plan about the use of this package.
