@@ -5,7 +5,7 @@ name = "default"
 google_fonts = "Libre Franklin|Montserrat:400,700|Palatino:400,400italic,700|Georgia:400,400italic,700"
 
 # Font families
-heading_font = "Montserrat"
-body_font = "Libre Franklin"
-nav_font = "Libre Franklin"
-mono_font = "Palatino"
+heading_font = "Roboto"
+body_font = "Palatino"
+nav_font = "Roboto"
+mono_font = "Roboto"
