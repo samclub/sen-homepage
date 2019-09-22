@@ -2,10 +2,11 @@
 name = "default"
 
 # Optional Google font URL
-google_fonts = "Libre Franklin|Montserrat:400,700|Palatino:400,400italic,700|Georgia:400,400italic,700"
+google_fonts = "Ubuntu:400,500,700,700i|Ubuntu Mono"
+# google_fonts = "Ubuntu:400,500,700,700i|Ubuntu Mono|Montserrat:400,700|Palatino:400,400italic,700|Georgia:400,400italic,700"
 
 # Font families
-heading_font = "Roboto"
-body_font = "Palatino"
-nav_font = "Roboto"
-mono_font = "Roboto"
+heading_font = "Ubuntu"
+body_font = "Ubuntu"
+nav_font = "Ubuntu"
+mono_font = "Ubuntu Mono"
