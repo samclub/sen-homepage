@@ -9,6 +9,6 @@ featured: true
 publication: "**_Journal of Climate_**, 28(19):7437-7456"
 # url_pdf: "http://journals.ametsoc.org/doi/full/10.1175/JCLI-D-14-00425.1"
 doi: "10.1175/JCLI-D-14-00425.1"
-tags: ["Rossby Wave", "Wave Ray Tracing", "Teleconncection"]
+tags: ["Rossby Wave", "Wave Ray Tracing", "Teleconnection"]
 ---
 

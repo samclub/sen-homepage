@@ -9,6 +9,6 @@ featured: false
 publication: "**_Climate Dynamics_**, 51(5-6):2141-2156"
 url_pdf: "https://link-springer-com/article/10.1007/s00382-017-4004-3"
 doi: "10.1007/s00382-017-4004-3"
-tags: ["Teleconncection"]
+tags: ["Teleconnection"]
 ---
 

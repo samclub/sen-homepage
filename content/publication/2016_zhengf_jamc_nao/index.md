@@ -9,6 +9,6 @@ featured: false
 publication: "**_Journal of Applied Meteorology and Climatology_**, 55(7):1459-1476"
 url_pdf: "https://journals.ametsoc.org/doi/abs/10.1175/JAMC-D-15-0199.1"
 doi: "10.1175/JAMC-D-15-0199.1"
-tags: ["Wave Ray Tracing", "Teleconncection"]
+tags: ["Wave Ray Tracing", "Teleconnection"]
 ---
 

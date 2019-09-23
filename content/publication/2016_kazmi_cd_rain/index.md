@@ -8,6 +8,6 @@ abstract: ""
 featured: false
 publication: "**_Climate Dynamics_**, 47(7-8):2653-2666"
 doi: "10.1007/s00382-016-2990-1"
-tags: ["Wave Ray Tracing", "Teleconncection"]
+tags: ["Wave Ray Tracing", "Teleconnection"]
 ---
 

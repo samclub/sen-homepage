@@ -9,6 +9,6 @@ featured: true
 publication: "**_Climate Dynamics_**, 52(5-6):3203-3221"
 url_pdf: "https://doi.org/10.1007/s00382-018-4324-y"
 doi: "10.1007/s00382-018-4324-y"
-tags: ["Rossby Wave", "Wave Ray Tracing", "Teleconncection"]
+tags: ["Rossby Wave", "Wave Ray Tracing", "Teleconnection"]
 ---
 
