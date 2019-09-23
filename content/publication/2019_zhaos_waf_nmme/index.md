@@ -1,6 +1,6 @@
 ---
 title: "Improved Predictability of the Indian Ocean Dipole using a Stochastic-Dynamical Model compared to the North American Multi-model Ensemble Forecast"
-authors: ["Sen Zhao", "Malte F. Stuecker", "Fei-Fei Jin", "Juan Feng", "Hong-Li Ren", "Wenjun Zhang", "Jianping Li"]
+authors: ["**Sen Zhao**", "Malte F. Stuecker", "Fei-Fei Jin", "Juan Feng", "Hong-Li Ren", "Wenjun Zhang", "Jianping Li"]
 date: 2019-12-31
 doi: ""
 
@@ -22,7 +22,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["IOD", "ENSO"]
+tags: ["IOD", "ENSO", "NMME"]
 categories: []
 featured: false
 

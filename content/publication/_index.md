@@ -17,8 +17,8 @@ header:
 {{% alert note %}}
 [My Google Scholar](https://scholar.google.com/citations?user=DSWiT8wAAAAJ) metrics (as of August 29, 2019)
 
-- h-index: 11; 
-- total citations: 357; 
+- h-index: 11;
+- total citations: 357;
 - total published articles: 33
 
 {{% /alert %}}

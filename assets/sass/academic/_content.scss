@@ -88,7 +88,7 @@ article {
   margin-bottom: 15px;
   overflow: hidden;
   font-size: 15px;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.01em;
   color: rgba(0,0,0,0.54);
 }
 
@@ -158,12 +158,32 @@ article .article-metadata {
 }
 
 .article-widget {
-  padding-top: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .article-widget h3 {
-  margin-top: 0;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 6rem;
+  margin-right: auto;
 }
+
+.article-widget-author {
+  margin-top: 1rem;
+  margin-bottom: 0;
+  margin-left: 3rem;
+  margin-right: auto;
+}
+.article-widget-author h3 {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 3rem;
+  margin-right: auto;
+}
+
 
 .hr-light {
   border-top: 1px solid rgba(0,0,0,.05);
