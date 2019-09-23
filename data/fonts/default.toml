@@ -2,11 +2,11 @@
 name = "default"
 
 # Optional Google font URL
-google_fonts = "Ubuntu:400,500,700,700i|Ubuntu Mono"
+google_fonts = "Ubuntu:400,500,700,700i|Ubuntu+Mono:400,400i,700,700i"
 # google_fonts = "Ubuntu:400,500,700,700i|Ubuntu Mono|Montserrat:400,700|Palatino:400,400italic,700|Georgia:400,400italic,700"
 
 # Font families
 heading_font = "Ubuntu"
 body_font = "Ubuntu"
 nav_font = "Ubuntu"
-mono_font = "Ubuntu Mono"
+mono_font = "Ubuntu+Mono"
