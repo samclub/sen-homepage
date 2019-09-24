@@ -22,7 +22,7 @@
     {{ $query := where .Pages ".IsNode" false }}
     {{ $count := len $query }}
     {{ if $count }}
-    <div class="article-widget-author">
+    <div class="article-widget">
       <div class="hr-light"></div>
       <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
       <ul>
