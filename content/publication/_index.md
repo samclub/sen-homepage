@@ -19,6 +19,6 @@ header:
 
 - h-index: 11;
 - total citations: 357;
-- total published articles: 33
+- total published peer reviewed articles: 33
 
 {{% /alert %}}

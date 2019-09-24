@@ -34,7 +34,7 @@ $$\frac{dT}{dt}=-\lambda\left(t\right)T\left(t\right)+\alpha\left(t\right)T_\tex
 
 where $T$ is the monthly DMI, $T_\text{ENSO}\left(t\right)$ the monthly Niño-3.4 index, $\lambda\left(t\right)$ the damping rate of $T$, $\alpha\left(t\right)$ the ENSO forcing strength, $\xi\left(t\right)$ the stochastic forcing, and $\sigma_0$ the magnitude of stochastic forcing. As shown in Figure 1, although the El Nino is slightly weak during February 2019, the preconditioning El Nino SST anomaly in Spring 2019 (May) may contribute to the development of the 2019 IOD event (via the El Nino teleconnection to eastern Indian Ocean).
 
-{{< figure src="featured.jpg" title="_Figure 1. Sea surface temperature anomalies on a) February , b) May and c) August 2019. Data Source: OISST v2_" numbered="false" lightbox="true" >}}
+{{< figure src="featured.jpg" title="**Figure 1. Sea surface temperature anomalies on a) February , b) May and c) August 2019. Data Source: OISST v2**" numbered="false" lightbox="true" width="60%" >}}
 
 
 

@@ -61,6 +61,7 @@ date_format = "Jan 2006"
   * Theory of cross-equatorial propagation of planetary wave in horizontally non-uniform basic ﬂow
   * Atmospheric teleconnections
   * Decadal variation of wintertime haze in China
+
   """
 
 +++
