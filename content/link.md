@@ -70,3 +70,8 @@ projects: []
 - [Zebiak and Cane Model](http://www.cpc.ncep.noaa.gov/products/predictions/experimental/bulletin/Jul96/art03.html)
 - [ICTP Speedy AGCM](http://users.ictp.it/~kucharsk/speedy-net.html)
 - [LOVECLIM (Hugues Goosse)](http://www.elic.ucl.ac.be/modx/index.php?id=81)
+
+
+## Others
+
+- [HTML Colors](https://htmlcolorcodes.com/color-names/)
