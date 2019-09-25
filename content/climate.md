@@ -34,20 +34,20 @@ projects: []
 ## [IRI ENSO](https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/)
 
 * **IRI most recent SST anomaly**
-{{< figure src="http://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/figure01.gif" title="" numbered="false" lightbox="true" >}}
+{{< figure src="https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/figure01.gif" title="" numbered="false" lightbox="true" >}}
 
 * **IRI most recent Nino 3.4 SST anomaly index plume**
-{{< figure src="http://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/figure06.gif" title="" numbered="false" lightbox="true" >}}
+{{< figure src="https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/figure06.gif" title="" numbered="false" lightbox="true" >}}
 
-## [JMA ENSO Monitoring and Outlook](http://ds.data.jma.go.jp/tcc/tcc/products/elnino/elmonout.html)
-{{< figure src="http://ds.data.jma.go.jp/tcc/tcc/products/elnino/gif/c_sst.gif" title="Monthly mean SST and anomalies in the Pacific and Indian Oceans" numbered="false" lightbox="true" >}}
+## [JMA ENSO Monitoring and Outlook](https://ds.data.jma.go.jp/tcc/tcc/products/elnino/elmonout.html)
+{{< figure src="https://ds.data.jma.go.jp/tcc/tcc/products/elnino/gif/c_sst.gif" title="Monthly mean SST and anomalies in the Pacific and Indian Oceans" numbered="false" lightbox="true" >}}
 
-{{< figure src="http://ds.data.jma.go.jp/tcc/tcc/products/elnino/gif/c_odas.gif" title="Depth-longitude cross sections of temperature and anomalies along the equator in the Indian and Pacific Oceans by the ocean data assimilation system" numbered="false" lightbox="true" >}}
+{{< figure src="https://ds.data.jma.go.jp/tcc/tcc/products/elnino/gif/c_odas.gif" title="Depth-longitude cross sections of temperature and anomalies along the equator in the Indian and Pacific Oceans by the ocean data assimilation system" numbered="false" lightbox="true" >}}
 
-{{< figure src="http://ds.data.jma.go.jp/tcc/tcc/products/elnino/gif/c_eqssta.gif" title="Time-longitude cross section of SST anomalies along the equator in the Indian and Pacific Oceans" numbered="false" lightbox="true" >}}
+{{< figure src="https://ds.data.jma.go.jp/tcc/tcc/products/elnino/gif/c_eqssta.gif" title="Time-longitude cross section of SST anomalies along the equator in the Indian and Pacific Oceans" numbered="false" lightbox="true" >}}
 
-{{< figure src="http://ds.data.jma.go.jp/tcc/tcc/products/elnino/gif/c_eqohca.gif" title="Time-longitude cross section of ocean heat content (OHC; vertically averaged temperature in the top 300 m) anomalies along the equator in the Indian and Pacific Oceans by the ocean data assimilation system" numbered="false" lightbox="true" >}}
+{{< figure src="https://ds.data.jma.go.jp/tcc/tcc/products/elnino/gif/c_eqohca.gif" title="Time-longitude cross section of ocean heat content (OHC; vertically averaged temperature in the top 300 m) anomalies along the equator in the Indian and Pacific Oceans by the ocean data assimilation system" numbered="false" lightbox="true" >}}
 
-{{< figure src="http://ds.data.jma.go.jp/tcc/tcc/products/elnino/gif/c_olr.gif" title="Monthly mean outgoing longwave radiation (OLR) and anomalies" numbered="false" lightbox="true" >}}
+{{< figure src="https://ds.data.jma.go.jp/tcc/tcc/products/elnino/gif/c_olr.gif" title="Monthly mean outgoing longwave radiation (OLR) and anomalies" numbered="false" lightbox="true" >}}
 
 

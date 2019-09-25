@@ -35,7 +35,7 @@ The WNWR package are described in the following papers, which should be referenc
 - Zhao, S., J. Li, and Y. Li (2015), [Dynamics of an interhemispheric teleconnection across the critical latitude through a southerly duct during boreal winter](https://doi.org/10.1175/JCLI-D-14-00425.1), _J. Climate_, **28**, 7437-7456
 - Li, Y., and J. Li, 2012: Propagation of planetary waves in the horizontal non-uniform basic ﬂow (in Chinese). _Chin. J. Geophys._, **55**, 361–371
 
-We ask that you acknowledge us in your use of the code in any documents or publications using WNWR package. This may be done by including text such as "**We are grateful to Prof. Jianping Li, Dr. Yanjie Li, and Dr. Sen Zhao making the Rossby wave tracing code readily available.**" Thank you!
+We ask that you acknowledge us in your use of the WNWR package in any documents or publications. This may be done by including text in acknowledgement such as "**We are grateful to Prof. Jianping Li, Dr. Yanjie Li, and Dr. Sen Zhao making the Rossby wave tracing code readily available.**" Thank you!
 
 <!-- ## Purpose
 - Theoretical interpretation of the physic mechanism of some atmospheric teleconnections
