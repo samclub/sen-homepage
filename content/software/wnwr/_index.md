@@ -21,7 +21,13 @@ menu:
     weight: 1
 ---
 
+## Overview
+
 WNWR is a software package for inverstigating the Rossby wave propagation in a **horizontally non-uniform basic flow (includes both U and V)**. The package code is written in Fortran 90 language.
+
+The WNWR package refines the Rossby wave theory to a **horizontally non-uniform basic flow**, extends the classic Rossby wave theory which only consider zonal basic flow ([Hoskins and Karoly 1981](https://doi.org/10.1175/1520-0469(1981)038<1179:TSLROA>2.0.CO;2); [Hoskins and Ambrizzi 1993](https://doi.org/10.1175/1520-0469(1993)050<1661:RWPOAR>2.0.CO;2)). The new theory is valuable to understand the atmospheric teleconnections between the tropics and extra-tropics, and between the Northern Hemisphere and Southern Hemisphere, especially the linkages across the easterlies. It has been used to examine the energy dispersion trajectory associated the atmospheric teleconnections in many published papers (see [Applications]({{< ref "software/wnwr/application" >}})).
+
+## Citation
 
 The WNWR package are described in the following papers, which should be referenced if you use WNWR package in publications:
 
@@ -29,8 +35,7 @@ The WNWR package are described in the following papers, which should be referenc
 - Zhao, S., J. Li, and Y. Li (2015), [Dynamics of an interhemispheric teleconnection across the critical latitude through a southerly duct during boreal winter](https://doi.org/10.1175/JCLI-D-14-00425.1), _J. Climate_, **28**, 7437-7456
 - Li, Y., and J. Li, 2012: Propagation of planetary waves in the horizontal non-uniform basic ﬂow (in Chinese). _Chin. J. Geophys._, **55**, 361–371
 
-The WNWR package refines the Rossby wave theory to a **horizontally non-uniform basic flow**, extends the classic Rossby wave theory which only consider zonal basic flow ([Hoskins and Karoly 1981](https://doi.org/10.1175/1520-0469(1981)038<1179:TSLROA>2.0.CO;2); [Hoskins and Ambrizzi 1993](https://doi.org/10.1175/1520-0469(1993)050<1661:RWPOAR>2.0.CO;2)). The new theory is valuable to understand the atmospheric teleconnections between the tropics and extra-tropics, and between the Northern Hemisphere and Southern Hemisphere, especially the linkages across the easterlies. It has been used to examine the energy dispersion trajectory associated the atmospheric teleconnections in many published papers (see [Applications]({{< ref "software/wnwr/application" >}})).
-
+We ask that you acknowledge us in your use of the code in any documents or publications using WNWR package. This may be done by including text such as "**We are grateful to Prof. Jianping Li, Dr. Yanjie Li, and Dr. Sen Zhao making the Rossby wave tracing code readily available.**" Thank you!
 
 <!-- ## Purpose
 - Theoretical interpretation of the physic mechanism of some atmospheric teleconnections
