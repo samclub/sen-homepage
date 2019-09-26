@@ -38,13 +38,13 @@ projects: []
 
 根据普朗克定律，地球表面发射出去的辐射与温度有关，温度越高，发射出去的辐射越强。这说明普朗克反馈是控制地球表面温度重要的负反馈过程。由Stefan–Boltzmann定律，地球表面发射的为
 
-$$F^\uparrow (\infty) = \sigma T^4_e$$.
+$$F^\uparrow (\infty) = \sigma T^4_e.$$
 
 如果忽略温度对反照率的影响，那么地球将像黑体那样冷却，
 
 $$  \lambda_R = \left( \frac {\partial (\sigma T^4_e)}{\partial T_e} \right)^{-1} = (4\sigma T^3_e)^{-1} = 0.26 \text{ K (W m}^{-2})^{-1} $$ 
 
-这表明，0.25 K表面温度的增加即会造成1 W m<sup>-2</sup> 地球能量平衡中的损失。在平均反照率为0.3的情况下，总太阳辐射为5.7$\text{W m}^{-2}$的变化可以造成1$\text{W m}^{-2}$地球能量平衡的变化。如果仅考虑普朗克反馈，总太阳辐射22$\text{W m}^{-2}$时或1.6%的变化才能造成地球表面温度1$\text{K}$的变化。
+这表明，0.25 K表面温度的增加即会造成1 W m<sup>-2</sup> 地球能量平衡中的损失。在平均反照率为0.3的情况下，总太阳辐射为5.7 W m<sup>-2</sup>的变化可以造成1 W m<sup>-2</sup>地球能量平衡的变化。如果仅考虑普朗克反馈，总太阳辐射22 W m<sup>-2</sup>时或1.6%的变化才能造成地球表面温度1 K的变化。
 
 ### 1.2 水汽反馈
 
@@ -55,7 +55,6 @@ Clausius–Clapeyron方程
 $$\frac{d e_s}{d T} = \frac{L}{T(\alpha_v - \alpha_l)}$$
 
 ![](http://www.climate.be/textbook/images/image4x03.png)
-
 {:.image-caption}
 *Figure 1. From Goosse H., P.Y. Barriat, W. Lefebvre, M.F. Loutre and V. Zunz, (2008-2010). Introduction to climate dynamics and climate modeling. Online textbook available at http://www.climate.be/textbook.*
 
@@ -74,6 +73,8 @@ $$\frac{d e_s}{d T} = \frac{L}{T(\alpha_v - \alpha_l)}$$
 ### 1.5 云反馈
 
 云对辐射有强烈的吸收、反射或放射作用，这称作云的反馈。云的反馈作用十分复杂，其反馈强度和符号决定于云的具体种类，云的高度，光学性质等，但基本上可以分为两类作用。云对太阳辐射可以产生反射作用，将其中入射到云表面的一部分辐射反射回太空，减少气候系统获得的总入射能量，因而具有降温作用。另一方面云能吸收云下地表和大气放射的长波辐射，与温室气体的作用一样，能减少地面向空间的热量损失，从而使云下大气层温度增加。
+
+------------------
 
 ## 2. 辐合核
 
