@@ -66,8 +66,11 @@ social:
   link: https://orcid.org/0000-0002-5597-1109
 - icon: publons
   icon_pack: ai
-  link: https://publons.com/researcher/2177739/sen-zhao/
-
+  link: https://publons.com/researcher/1735725/sen-zhao/
+- icon: zotero
+  icon_pack: ai
+  link: https://www.zotero.org/samclub
+  
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
