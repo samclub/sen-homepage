@@ -1,0 +1,81 @@
+---
+title: "Radiative Kernels in Global Warming Sciences"
+subtitle: ""
+summary: ""
+authors: ["admin"]
+
+date: 2018-05-18T00:00:00Z
+lastmod: 2018-05-18T00:00:00Z
+
+math: true
+diagram: true
+markup: mmark
+tags: ["Radiative Kernels"]
+featured: false
+draft: false
+comments: false  # Show comments?
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
+
+## 1. 基本的辐射反馈过程
+
+### 1.1 普朗克反馈
+
+根据普朗克定律，地球表面发射出去的辐射与温度有关，温度越高，发射出去的辐射越强。这说明普朗克反馈是控制地球表面温度重要的负反馈过程。由Stefan–Boltzmann定律，地球表面发射的为$F^\uparrow (\infty) = \sigma T^4_e$. 如果忽略温度对反照率的影响，那么地球将像黑体那样冷却，
+$$  \lambda_R = \left( \frac {\partial (\sigma T^4_e)}{\partial T_e} \right)^{-1} = (4\sigma T^3_e)^{-1} = 0.26 \text{ K (W m}^{-2})^{-1} $$ 
+
+这表明，0.25$\text{K}$表面温度的增加即会造成1$\text{W m}^{-2}$地球能量平衡中的损失。在平均反照率为0.3的情况下，总太阳辐射为5.7$\text{W m}^{-2}$的变化可以造成1$\text{W m}^{-2}$地球能量平衡的变化。如果仅考虑普朗克反馈，总太阳辐射22$\text{W m}^{-2}$时或1.6%的变化才能造成地球表面温度1$\text{K}$的变化。
+
+### 1.2 水汽反馈
+
+大气的水汽反馈。温度增加使蒸发加强，致使大气中水汽量增加，增加的水汽将产生更强的温室效应。计算表明，它将使由于CO2加倍引起的全球平均温度升高增加60%。
+
+Clausius–Clapeyron方程
+$$\frac{d e_s}{d T} = \frac{L}{T(\alpha_v - \alpha_l)}$$
+
+![](http://www.climate.be/textbook/images/image4x03.png)
+
+{:.image-caption}
+*Figure 1. From Goosse H., P.Y. Barriat, W. Lefebvre, M.F. Loutre and V. Zunz, (2008-2010). Introduction to climate dynamics and climate modeling. Online textbook available at http://www.climate.be/textbook.*
+
+### 1.3 温度递减率反馈
+
+大气温度结构(温度递减率)反馈。尤其是大气中水汽含量改变后，大气温度结构将发生变化，从而影响大气长波向外空的辐射量和温室效应。
+![Lasper Rate Feedback](http://www.climate.be/textbook/images/image4x04.png)
+
+{:.image-caption}
+*Figure 2. From Goosse H., P.Y. Barriat, W. Lefebvre, M.F. Loutre and V. Zunz, (2008-2010). Introduction to climate dynamics and climate modeling. Online textbook available at http://www.climate.be/textbook.*
+
+### 1.4 冰雪反照率反馈
+
+冰和雪的表面是太阳辐射的强烈反射体。反照率即是这种反射能力的度量。如果具有低反照率的海面(反照率为0.1)或陆面(反照率为0.3)被高反照率的海冰或冰雪(反照率≥0.6)所覆盖，地表所吸收的太阳辐射将不到原先的一半，因而地表进一步变冷，反之亦然。这是冰雪反照率的正反馈过程。它会使CO2加倍产生的增温再增加20%。
+
+### 1.5 云反馈
+
+云对辐射有强烈的吸收、反射或放射作用，这称作云的反馈。云的反馈作用十分复杂，其反馈强度和符号决定于云的具体种类，云的高度，光学性质等，但基本上可以分为两类作用。云对太阳辐射可以产生反射作用，将其中入射到云表面的一部分辐射反射回太空，减少气候系统获得的总入射能量，因而具有降温作用。另一方面云能吸收云下地表和大气放射的长波辐射，与温室气体的作用一样，能减少地面向空间的热量损失，从而使云下大气层温度增加。
+
+## 2. 辐合核
+
+
+
+
+## References
+
+{:.reference}
+- Shell, K. M., J. T. Kiehl, and C. A. Shields, 2008: Using the Radiative Kernel Technique to Calculate Climate Feedbacks in NCAR’s Community Atmospheric Model. Journal of Climate, 21, 2269–2282.
+- Rose Brian E. J., Armour Kyle C., Battisti David S., Feldl Nicole, & Koll Daniel D. B. (2014). The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake. Geophysical Research Letters, 41(3), 1071–1078. [doi](https://doi.org/10.1002/2013GL058955)
