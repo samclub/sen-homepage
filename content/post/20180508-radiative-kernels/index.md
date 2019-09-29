@@ -32,6 +32,25 @@ projects: []
 ---
 
 
+--------------
+
+## 1 Climate sensitivity and feedback
+
+Climate sensitivity is the amount by which an objective measure of climate changes when one of the assumed independent variables controling the climate is varied. For exmaple, how much the global mean surface temperature, $T_s$, changes if We vary the total solar irradiance (TSI), $S_0$; however, the global mean temperature is a function of more than the TSI. Suppose it depends on a number of variables $y_i$ such as temperature, water vapor, other greenhouses, cloudiness, ice cover, land vergetation, and many others. Then the chain rule yeilds,
+
+$$ \frac{d T_s}{d S_0} = \frac{\partial T_s}{\partial S_0} + \sum_{j=1}^{N} \frac{\partial T_s}{\partial y_i} \frac{\partial y_i}{\partial S_0} $$
+
+The total change of surface temperature with respect to TSI is the sum of many contributions each made up of the partial derivative of surface temperature with respect to a secondary variable that controls surface temperature, times the total change of that secondary variable with respect to the TSI.
+
+As an example, if we increase the TSI, the specific humidity of air will increase because of the dependence of saturation vapor pressure on temperature. The increase of atmospheric water vapor will in turn lead to an increase in surface temperature, because of the greenhouse effect of the added water vapor.
+
+{{< figure src="climatefeedbacks.jpg" title="**Figure 1. Schematic diagram indicating the nature of a feedback process.** An initial climate forcing ∆Q changes the energy balance and leads to an initial temperature change ∆T. This temperature change causes other changes in the climate system; a change in the Planck emission of terrestrial radiation ∆B<sub>v</sub>(T), a change in the water vapor content ∆H<sub>2</sub>O(T), a change in the ice coverage ∆Ice(T), or some other change ∆⋅⋅⋅. These changes in turn then influence the energy balance leading to a further change in the temperature. When the temperature change is such that the feedbacks balance the forcing, then the system is in a new equilibrium with a temperature change ∆T<sub>eq</sub>. From Hartmann (2015)." numbered="false" lightbox="true" width="80%" >}}
+
+
+
+
+
+
 ## 1. 基本的辐射反馈过程
 
 ### 1.1 普朗克反馈
