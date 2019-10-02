@@ -6,7 +6,7 @@ authors: ["**Sen Zhao**", "Fei-Fei Jin", "Malte F. Stuecker"]
 publication_types: ["2"]
 abstract: ""
 featured: true
-publication: "**_Geophysical Research Letters_**, online"
+publication: "**_Geophysical Research Letters_**, 46(16):9980-9990"
 doi: "10.1029/2019GL084196"
 tags: ["IOD", "ENSO", "Seasonal Prediction"]
 ---

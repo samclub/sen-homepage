@@ -73,14 +73,14 @@ Clausius–Clapeyron方程
 
 $$\frac{d e_s}{d T} = \frac{L}{T(\alpha_v - \alpha_l)}$$
 
-![](http://www.climate.be/textbook/images/image4x03.png)
+![](https://www.climate.be/textbook/images/image4x03.png)
 {:.image-caption}
 *Figure 1. From Goosse H., P.Y. Barriat, W. Lefebvre, M.F. Loutre and V. Zunz, (2008-2010). Introduction to climate dynamics and climate modeling. Online textbook available at http://www.climate.be/textbook.*
 
 ### 1.3 温度递减率反馈
 
 大气温度结构(温度递减率)反馈。尤其是大气中水汽含量改变后，大气温度结构将发生变化，从而影响大气长波向外空的辐射量和温室效应。
-![Lasper Rate Feedback](http://www.climate.be/textbook/images/image4x04.png)
+![Lasper Rate Feedback](https://www.climate.be/textbook/images/image4x04.png)
 
 {:.image-caption}
 *Figure 2. From Goosse H., P.Y. Barriat, W. Lefebvre, M.F. Loutre and V. Zunz, (2008-2010). Introduction to climate dynamics and climate modeling. Online textbook available at http://www.climate.be/textbook.*
