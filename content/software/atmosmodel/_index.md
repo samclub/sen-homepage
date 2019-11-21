@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Simple atmospheric models
-summary: WNWR is a software package for inverstigating the Rossby wave propagation in a horizontally non-uniform flow.
+summary: Some simple atmospheric models presented
 weight: 1
 
 # Page metadata.
