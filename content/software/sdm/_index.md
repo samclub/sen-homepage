@@ -16,7 +16,7 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  wnwr:
+  sdm:
     name: Overview
     weight: 1
 ---
@@ -40,4 +40,4 @@ We ask that you acknowledge us in your use of the SDM in any documents or public
 
 ## Availability to the code
 
-For those finding of interest in using the [WNWR package]({{< ref "software/wnwr" >}}), please ask Prof. Jianping Li (Email: [ljp@ouc.edu.cn](mailto:ljp@ouc.edu.cn)) or myself (Email: [zhaos@hawaii.edu](mailto:zhaos@hawaii.edu)) to get the package code. We would appreciated if you can briefly introduce your plan about the use of this package.
+For those finding of interest in using the [SDM for the IOD]({{< ref "software/sdm" >}}), please email me [zhaos@hawaii.edu](mailto:zhaos@hawaii.edu)) to get the model code. We would appreciated if you can briefly introduce your plan about the use of this model.
