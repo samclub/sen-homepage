@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: A stochastic-dynamical model (SDM) for Indian Ocean Dipole (IOD)
-summary: The SDM for IOD is a simple stochastic-dynamical model to predict the IOD using seasonally modulated El Niño-Southern Oscillation (ENSO) forcing together with a seasonally modulated Indian Ocean coupled ocean-atmosphere feedback.
+summary: The SDM for the IOD is a simple model to predict the IOD using seasonally modulated El Niño-Southern Oscillation (ENSO) forcing together with a seasonally modulated Indian Ocean coupled ocean-atmosphere feedback.
 weight: 1
 
 # Page metadata.
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   sdm:
-    name: Overview
+    name: The SDM for the IOD
     weight: 1
 ---
 
@@ -33,10 +33,10 @@ where $T$ is the monthly DMI, $T_\text{ENSO}\left(t\right)$ the monthly Niño-3.
 
 The SDM for the IOD are described in the following papers, which should be referenced if you use SDM for the IOD in publications:
 
-- Stuecker, M. F., A. Timmermann, F.-F. Jin, Y. Chikamoto, W. Zhang, A. T. Wittenberg,  E. Widiasih, S. Zhao (2017), [Revisiting ENSO/Indian Ocean Dipole phase relationships](doi:10.1002/2016GL072308), _Geophys. Res. Lett._, **44**(5), 2481–2492, https://doi.org/10.1002/2016GL072308
-- Zhao, S., F.-F. Jin, M. F. Stuecker (2019) [Improved Predictability of the Indian Ocean Dipole Using Seasonally Modulated ENSO Forcing Forecasts](https://doi.org/10.1029/2019GL084196). _Geophys. Res. Lett._, **46**(16):9980-9990, https://doi.org/10.1029/2019GL084196
+- Stuecker, M. F., A. Timmermann, F.-F. Jin, Y. Chikamoto, W. Zhang, A. T. Wittenberg,  E. Widiasih, **S. Zhao** (2017), Revisiting ENSO/Indian Ocean Dipole phase relationships, _Geophys. Res. Lett._, **44**(5), 2481–2492, https://doi.org/10.1002/2016GL072308
+- **Zhao, S.**, F.-F. Jin, M. F. Stuecker (2019) Improved Predictability of the Indian Ocean Dipole Using Seasonally Modulated ENSO Forcing Forecasts. _Geophys. Res. Lett._, **46**(16):9980-9990, https://doi.org/10.1029/2019GL084196
 
-We ask that you acknowledge us in your use of the SDM in any documents or publications. This may be done by including text in acknowledgement such as "**We are grateful to Dr. Sen Zhao making the SDM code readily available.**" Thank you!
+We ask that you acknowledge us in your use of the SDM for the IOD in any documents or publications. Thank you!
 
 ## Availability to the code
 
