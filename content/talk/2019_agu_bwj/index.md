@@ -1,5 +1,5 @@
 ---
-title: A robust assessment of the Bjerknes-Wyrtki-Jin indices for ENSO growth rate and periodicity (**up coming**)
+title: A robust assessment of the Bjerknes-Wyrtki-Jin indices for ENSO growth rate and periodicity
 event: AGU Fall Meeting 2019
 event_url: https://agu.confex.com/agu/fm19/meetingapp.cgi/Home/0
 
