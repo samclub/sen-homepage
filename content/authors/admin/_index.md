@@ -70,7 +70,7 @@ social:
 - icon: zotero
   icon_pack: ai
   link: https://www.zotero.org/samclub
-  
+
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
