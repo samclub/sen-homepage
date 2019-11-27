@@ -18,8 +18,8 @@ address:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-12-11T08:00:00Z"
-date_end: "2019-12-11T12:30:00Z"
+date: "2019-11-11T08:00:00Z"
+date_end: "2019-11-11T12:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
