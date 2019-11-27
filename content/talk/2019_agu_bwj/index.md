@@ -28,7 +28,7 @@ tags: []
 # 'ENSO', 'Stability', 'Periodicity'
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -40,7 +40,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: "https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/612181"
-url_pdf: "" 
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
