@@ -17,17 +17,18 @@ address:
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2019-12-11T08:00:00Z"
-date_end: "2019-12-11T12:20:00Z"
+date_end: "2019-12-11T12:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2019-12-01T00:00:00Z"
 
 authors: []
-tags: ['ENSO', 'Stability', 'Periodicity']
+tags: []
+# 'ENSO', 'Stability', 'Periodicity'
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -39,9 +40,11 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: "https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/612181"
-url_pdf: "files/talk/"
+url_pdf: "" 
 url_slides: ""
 url_video: ""
+
+# files/talk/
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
