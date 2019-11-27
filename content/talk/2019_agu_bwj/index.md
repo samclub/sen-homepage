@@ -7,7 +7,7 @@ event_url: https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/612181
 
 location: San Francisco, CA
 address:
-  street: Moscone South - Poster Hall
+  street: Moscone South Poster Hall
   city: San Francisco
   region: CA
   postcode: '94103'
