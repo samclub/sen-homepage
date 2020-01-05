@@ -8,5 +8,5 @@ abstract: ""
 featured: false
 publication: "**_Journal of Climate_**, *in press*"
 doi: "10.1175/JCLI-D-19-0112.1"
-tags: ["Paleclimate"]
+tags: ["Rossby Wave"]
 ---
