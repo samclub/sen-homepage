@@ -14,7 +14,7 @@ publishDate: 2019-09-20T01:50:18.496584Z
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Weather and Forecasting*, in press"
+publication: "**_Weather and Forecasting_**, *in press*"
 publication_short: ""
 
 abstract: ""
