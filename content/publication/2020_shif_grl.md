@@ -1,6 +1,6 @@
 ---
 title: "Monopole mode of precipitation in East Asia modulatedby the South China Sea over the last four centuries"
-date: 2019-08-29
+date: 2020-01-01
 publishDate: 2019-09-18T01:48:20.695096Z
 authors: ["Feng Shi", "Hugues Goosse", "François Klein", "**Sen Zhao**", "Ting Liu", "Zhengtang Guo"]
 publication_types: ["2"]
