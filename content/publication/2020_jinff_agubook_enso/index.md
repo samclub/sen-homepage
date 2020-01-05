@@ -1,6 +1,6 @@
 ---
 title: "Simple ENSO Models"
-date: 2019-12-01
+date: 2020-04-01
 publishDate: 2019-09-18T01:50:18.496584Z
 authors: ["Fei-Fei Jin", "Han-Ching Chen", "**Sen Zhao**", "Michiya Hayashi", "Christina Karamperidou", "Malte F. Stuecker", "Ruihuang Xie", "Licheng Geng"]
 publication_types: ["6"]
