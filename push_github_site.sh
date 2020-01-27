@@ -2,6 +2,11 @@
 
 find . -name '.DS_Store' -type f -delete
 git add .
-git commit -u -m "update website"
+if [ -z "$1" ]; then
+	git commit -u -m "update website"
+else
+	git commit -u -m "update: $1"
+fi
+
 git push origin master
 

@@ -6,7 +6,7 @@ authors: ["Feng Shi", "Hugues Goosse", "François Klein", "**Sen Zhao**", "Ting 
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "**_Geophysical Research Letters_**, *in press*"
+publication: "**_Geophysical Research Letters_**, *46*(24), 14713–14722"
 doi: "10.1029/2019GL085320"
 tags: ["Paleclimate"]
 ---
