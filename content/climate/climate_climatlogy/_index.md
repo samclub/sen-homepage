@@ -17,8 +17,8 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  climate_anomaly:
-    name: climate_anomaly
+  climate_climatology:
+    name: climate_climatology
     weight: 1
 ---
 
