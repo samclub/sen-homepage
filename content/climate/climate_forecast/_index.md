@@ -1,34 +1,27 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Climate Monitoring and Forecasts"
-subtitle: "  "
+linktitle: "Climate Monitoring and Forecasts"
 summary: ""
-authors: []
-tags: []
-categories: []
-date: 2019-09-20
-lastmod: 2019-09-20
-featured: false
-draft: false
-share: True
+weight: 1
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+# Page metadata.
+title: Climate Monitoring and Forecasts
+date: "2019-04-09T00:00:00Z"
+lastmod: "2019-09-09T00:00:00Z"
+draft: false  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID `name`.
+# - weight: Position of link in menu.
+menu:
+  climate_forecast:
+    name: forecast
+    weight: 1
 ---
-    
+
 {{% toc %}}
 
 ## [IRI ENSO](https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/)
@@ -49,5 +42,3 @@ projects: []
 {{< figure src="https://ds.data.jma.go.jp/tcc/tcc/products/elnino/gif/c_eqohca.gif" title="Time-longitude cross section of ocean heat content (OHC; vertically averaged temperature in the top 300 m) anomalies along the equator in the Indian and Pacific Oceans by the ocean data assimilation system" numbered="false" lightbox="true" >}}
 
 {{< figure src="https://ds.data.jma.go.jp/tcc/tcc/products/elnino/gif/c_olr.gif" title="Monthly mean outgoing longwave radiation (OLR) and anomalies" numbered="false" lightbox="true" >}}
-
-
