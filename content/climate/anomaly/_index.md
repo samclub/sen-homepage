@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   anomaly:
-    name: anomaly
+    name: Anomaly
     weight: 1
 ---
 
@@ -26,6 +26,7 @@ menu:
 
 ## DJF SST Anomaly
 
-{{< figure src="files/figures/sstdjf_multiples_ersst_1871-2020.png" title="**Figure 1. Sea surface temperature anomalies on a) February , b) May and c) August 2019. Data Source: OISST v2**" numbered="false" lightbox="true" width="60%" >}}
 
-{{< figure src="files/figures/detrend_sstdjf_multiples_ersst_1871-2020.png" title="**Figure 1. Sea surface temperature anomalies on a) February , b) May and c) August 2019. Data Source: OISST v2**" numbered="false" lightbox="true" width="60%" >}}
+{{< figure src="../../files/figures/sstdjf_multiples_ersst_1871-2020.png" title="DJF SST anomaly" numbered="false" lightbox="true" width="60%" >}}
+
+{{< figure src="../../files/figures/detrend_sstdjf_multiples_ersst_1871-2020.png" title="Detrended DJF SST anomaly" numbered="false" lightbox="true" width="60%" >}}
