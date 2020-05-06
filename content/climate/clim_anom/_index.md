@@ -1,32 +1,32 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-linktitle: "Climate Anomaly"
-summary: ""
+linktitle: "Atlas of Climatology and Anomaly"
+summary: "The goal of the Atlas of Climatology and Anomaly is to provide the international scientific community and wider general public with an illustrative material in support of climate change studies."
 weight: 1
 
-# Page metadata.
-title: "Overview"
-date: "2019-04-09T00:00:00Z"
-lastmod: "2019-09-09T00:00:00Z"
+title: "Atlas of Climatology and Anomaly"
+date: "2019-04-09"
+lastmod: "2020-05-05"
 draft: false  # Is this a draft? true/false
-toc: false  # Show table of contents? true/false
+toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
-# Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
 menu:
-  anomaly:
+  clim_anom:
     name: Overview
     weight: 1
 ---
 
+# Available
+
+
+<!-- - [Sea surface temperature](sst/) -->
+
+
+# Data and Methods
+
 <!-- {{% toc %}} -->
 
 
-- [Sea surface temperature](sst/)
-- 
 
 
 <!-- ## Sea surface temperature (SST) Anomaly
