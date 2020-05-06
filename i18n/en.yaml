@@ -27,7 +27,7 @@
   translation: Next
 
 - id: figure
-  translation: "Figure %d:"
+  translation: "Figure %d."
 
 - id: edit_page
   translation: Edit this page
