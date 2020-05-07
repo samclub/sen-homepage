@@ -15,7 +15,6 @@ menu:
 
 <!-- {{% toc %}} -->
 # Monthly climatology
-
 ## Mean
 {{< figure src="../figures/sst_clim_ersst_1981-2010.png" title="Monthly climatology of precipitation derived from CMAP" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
 
@@ -23,7 +22,6 @@ menu:
 {{< figure src="../figures/sst_std_ersst_1981-2010.png" title="Interannual standard deviation of precipitation derived from CMAP" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
 
 # Seasonal anomaly
-
 ## MAM
 {{< figure src="../figures/sstmam_anom_ersst_1870-2019.png" title="March-April-May SST anomaly" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
 
@@ -37,7 +35,6 @@ menu:
 {{< figure src="../figures/sstdjf_anom_ersst_1870-2019.png" title="December-January-February SST anomaly" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
 
 # Quadratic detrended seasonal anomaly
-
 ## MAM
 {{< figure src="../figures/sstmam_anom_detrend_ersst_1870-2019.png" title="Quadratic detrended March-April-May SST anomaly" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
 

@@ -15,17 +15,14 @@ menu:
 
 <!-- {{% toc %}} -->
 # Monthly climatology
-
-## mean
+## Mean
 
 {{< figure src="../figures/precip_clim_cmap_1981-2010.png" title="Monthly climatology of precipitation derived from CMAP" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
 
-## standard deviation
-
+## Standard deviation
 {{< figure src="../figures/precip_std_cmap_1981-2010.png" title="Interannual standard deviation of precipitation derived from CMAP" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
 
 # Seasonal anomaly
-
 ## MAM
 {{< figure src="../figures/precipmam_anom_cmap_1980-2019.png" title="March-April-May precipitation anomaly" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
 

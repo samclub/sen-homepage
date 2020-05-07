@@ -2,7 +2,7 @@
 title: "Improved Predictability of the Indian Ocean Dipole using a Stochastic-Dynamical Model compared to the North American Multi-model Ensemble Forecast"
 authors: ["**Sen Zhao**", "Malte F. Stuecker", "Fei-Fei Jin", "Juan Feng", "Hong-Li Ren", "Wenjun Zhang", "Jianping Li"]
 date: 2020-01-01
-doi: ""
+doi: "10.1175/WAF-D-19-0184.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-09-20T01:50:18.496584Z
