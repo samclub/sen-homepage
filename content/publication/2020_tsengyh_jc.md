@@ -6,7 +6,7 @@ authors: ["Yu-heng Tseng", "Ruiqiang Ding", "**Sen Zhao**", "Yi-chun Kuo", "Yu-c
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "**_Journal of Climate_**, *in press*"
+publication: "**_Journal of Climate_**, *33*:2389–2406"
 doi: "10.1175/JCLI-D-19-0112.1"
 tags: ["Rossby Wave"]
 ---
