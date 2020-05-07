@@ -14,28 +14,40 @@ menu:
 ---
 
 <!-- {{% toc %}} -->
-# Climatology
+# Monthly climatology
 
-## Annual mean
-
-## Seasonal mean
+## Mean
+{{< figure src="../figures/sst_clim_ersst_1981-2010.png" title="Monthly climatology of precipitation derived from CMAP" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
 
 ## Standard deviation
+{{< figure src="../figures/sst_std_ersst_1981-2010.png" title="Interannual standard deviation of precipitation derived from CMAP" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
 
+# Seasonal anomaly
 
-# Anomaly
+## MAM
+{{< figure src="../figures/sstmam_anom_ersst_1870-2019.png" title="March-April-May SST anomaly" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
 
-## December-January-February (DJF)
+## JJA
+{{< figure src="../figures/sstjja_anom_ersst_1870-2019.png" title="June-July-August SST anomaly" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
 
-{{< figure src="../figures/sstdjf_anom_ersst_1871-2020.png" title="DJF SST anomaly" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
+## SON
+{{< figure src="../figures/sstson_anom_ersst_1870-2019.png" title="September-October-November SST anomaly" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
 
-{{< figure src="../figures/sstdjf_anom_detrend_ersst_1871-2020.png" title="Detrended DJF SST anomaly" numbered="true" lightbox="true" width="100%" lightbox-group="true">}}
+## DJF
+{{< figure src="../figures/sstdjf_anom_ersst_1870-2019.png" title="December-January-February SST anomaly" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
 
-## June-July-August (JJA)
+# Quadratic detrended seasonal anomaly
 
+## MAM
+{{< figure src="../figures/sstmam_anom_detrend_ersst_1870-2019.png" title="Quadratic detrended March-April-May SST anomaly" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
 
-## March-April-May (MAM)
+## JJA
+{{< figure src="../figures/sstjja_anom_detrend_ersst_1870-2019.png" title="Quadratic detrended June-July-August SST anomaly" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
 
+## SON
+{{< figure src="../figures/sstson_anom_detrend_ersst_1870-2019.png" title="Quadratic detrended September-October-November SST anomaly" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
 
-## September-October-November (SON)
+## DJF
+{{< figure src="../figures/sstdjf_anom_detrend_ersst_1870-2019.png" title="Quadratic detrended December-January-February SST anomaly" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
+
 
