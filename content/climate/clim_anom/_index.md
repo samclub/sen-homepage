@@ -16,21 +16,15 @@ menu:
     weight: 1
 ---
 
-# Available
+## Datasets
+
+We use monthly gridded observation/reanalysis datasets listed as follows
+
+- **SST**: NOAA Extended Reconstructed Sea Surface Temperature (ERSST) V5 obtained from https://psl.noaa.gov/data/gridded/data.noaa.ersst.v5.html
+- **Precipitation**: CPC Merged Analysis of Precipitation (CMAP) obtained from https://psl.noaa.gov/data/gridded/data.cmap.html
 
 
-<!-- - [Sea surface temperature](sst/) -->
+## Methods
 
-
-# Data and Methods
-
-<!-- {{% toc %}} -->
-
-
-
-
-<!-- ## Sea surface temperature (SST) Anomaly
-
-{{< figure src="../../../files/figures/sstdjf_multiples_ersst_1871-2020.png" title="DJF SST anomaly" numbered="true" lightbox="true" width="100%" >}}
-
-{{< figure src="../../../files/figures/detrend_sstdjf_multiples_ersst_1871-2020.png" title="Detrended DJF SST anomaly" numbered="true" lightbox="true" width="100%" >}} -->
+- All the climatology is calculated using the period of 1981-2010, unless specifically stated otherwise.
+- We also show the detrended SST anomaly by removing the quadratic trend.

@@ -1,5 +1,5 @@
 ---
-title: "Rainfall"
+title: "Precipitation"
 date: "2019-04-09"
 lastmod: "2020-05-05"
 draft: false  # Is this a draft? true/false
@@ -9,7 +9,7 @@ type: docs  # Do not modify.
 menu:
   clim_anom:
     parent: 'Atmosphere'
-    name: Rainfall
+    name: Precipitation
     weight: 1
 ---
 
