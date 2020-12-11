@@ -12,7 +12,7 @@ diagram: true
 markup: goldmark
 tags: ["Radiative Kernels"]
 featured: false
-draft: false
+draft: true
 comments: false  # Show comments?
 
 # Featured image
