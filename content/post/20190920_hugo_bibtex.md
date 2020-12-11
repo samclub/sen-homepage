@@ -2,14 +2,14 @@
 title: "Automatically importing publications from bibtex to a hugo-academic blog"
 subtitle: ""
 summary: ""
-authors: ["admin"]
+authors: ["senzhao"]
 
 date: 2019-09-19T00:00:00Z
 lastmod: 2019-09-19T00:00:00Z
 
 math: true
 diagram: true
-markup: mmark
+markup: goldmark
 tags: ["hugo-academic"]
 featured: false
 draft: false
@@ -31,9 +31,9 @@ image:
 projects: []
 ---
 
-{{% alert note %}}
+{{% callout note %}}
 The post was first published by [Lorenzo Busetto](https://lbusett.netlify.com/) in his [Website & Blog](https://lbusett.netlify.com/post/automatically-importing-publications-from-bibtex-to-a-hugo-academic-blog/).
-{{% /alert %}}
+{{% /callout %}}
 
 I found a very useful tool to importing publications from bibtex to a hugo-academic blog. I only summarize the baisc steps:
 

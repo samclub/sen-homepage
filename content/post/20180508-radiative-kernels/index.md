@@ -2,14 +2,14 @@
 title: "Radiative Kernels in Global Warming Sciences"
 subtitle: ""
 summary: ""
-authors: ["admin"]
+authors: ["senzhao"]
 
 date: 2018-05-18T00:00:00Z
 lastmod: 2018-05-18T00:00:00Z
 
 math: true
 diagram: true
-markup: mmark
+markup: goldmark
 tags: ["Radiative Kernels"]
 featured: false
 draft: false

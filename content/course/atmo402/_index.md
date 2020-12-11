@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Applied Atmospheric Dynamics (ATMO 402), UH Mānoa
+linktitle: "UH Mānoa: Applied Atmospheric Dynamics (ATMO 402)"
 summary: Learn advanced concepts in dynamics include vorticity, cyclogenesis, jet streams, fronts, mesoscale circulations and so on.
 weight: 1
 
@@ -21,11 +21,11 @@ menu:
     weight: 1
 ---
 
-{{% alert note %}}
-[**Applied Atmospheric Dynamics (ATMO 402), UH Mānoa**](https://www.sis.hawaii.edu/uhdad/avail.class?i=MAN&t=201930&c=85971)
+{{% callout note %}}
+[**UH Mānoa: Applied Atmospheric Dynamics (ATMO 402)**](https://www.sis.hawaii.edu/uhdad/avail.class?i=MAN&t=201930&c=85971)
 
 Instructor: Fei-Fei Jin
-{{% /alert %}}
+{{% /callout %}}
 
 In spring semester 2019, I was teaching this course as a guest lecturer focuing on the following two concepts:
 

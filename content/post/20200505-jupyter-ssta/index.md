@@ -4,10 +4,10 @@ subtitle: ""
 summary: ""
 date: 2020-05-02T00:00:00Z
 lastmod: 2020-05-02T00:00:00Z
-authors: ["admin"]
+authors: ["senzhao"]
 math: true
 diagram: true
-markup: mmark
+markup: goldmark
 tags: ["SST"]
 featured: false
 comments: false  # Show comments?

@@ -4,10 +4,10 @@ subtitle: ""
 summary: ""
 date: 2019-09-17T00:00:00Z
 lastmod: 2019-09-17T00:00:00Z
-authors: ["admin"]
+authors: ["senzhao"]
 math: true
 diagram: true
-markup: mmark
+markup: goldmark
 tags: ["IOD"]
 featured: false
 comments: true  # Show comments?

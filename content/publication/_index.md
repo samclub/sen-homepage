@@ -14,11 +14,11 @@ header:
   image: ""
 ---
 
-{{% alert note %}}
-[My Google Scholar](https://scholar.google.com/citations?user=DSWiT8wAAAAJ) metrics (as of August 29, 2019)
+{{% callout note %}}
+[My Google Scholar](https://scholar.google.com/citations?user=DSWiT8wAAAAJ) metrics (as of December 10, 2020)
 
-- h-index: 11;
-- total citations: 357;
+- h-index: 13;
+- total citations: 624;
 - total published peer reviewed articles: 33
 
-{{% /alert %}}
+{{% /callout %}}

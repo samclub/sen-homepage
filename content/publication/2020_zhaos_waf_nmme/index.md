@@ -17,14 +17,14 @@ publication_types: ["2"]
 publication: "**_Weather and Forecasting_**, 35(2):379-399"
 publication_short: ""
 
-abstract: ""
+abstract: "This study assesses the predictive skill of eight North American Multimodel Ensemble (NMME) models in predicting the Indian Ocean dipole (IOD). We find that the forecasted ensemble-mean IOD–El Niño–Southern Oscillation (ENSO) relationship deteriorates away from the observed relationship with increasing lead time, which might be one reason that limits the IOD predictive skill in coupled models. We are able to improve the IOD predictive skill using a recently developed stochastic dynamical model (SDM) forced by forecasted ENSO conditions. The results are consistent with the previous result that operational IOD predictability beyond persistence at lead times beyond one season is mostly controlled by ENSO predictability and the signal-to-noise ratio of the Indo-Pacific climate system. The multimodel ensemble (MME) investigated here is found to be of superior skill compared to each individual model at most lead times. Importantly, the skill of the SDM IOD predictions forced with forecasted ENSO conditions were either similar or better than those of the MME IOD forecasts. Moreover, the SDM forced with observed ENSO conditions exhibits significantly higher IOD prediction skill than the MME at longer lead times, suggesting the large potential skill increase that could be achieved by improving operational ENSO forecasts. We find that both cold and warm biases of the predicted Niño-3.4 index may cause false alarms of negative and positive IOD events, respectively, in NMME models. Many false alarms for IOD forecasts at lead times longer than one season in the original forecasts disappear or are significantly reduced in the SDM forced by forecasted ENSO conditions."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags: ["IOD", "ENSO", "NMME"]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

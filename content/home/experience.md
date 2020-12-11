@@ -35,8 +35,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Postdoctoral Fellow"
-  company = "Department of Atmospheric Sciences, SOEST, University of Hawaii at Mānoa"
-  company_url = "https://www.soest.hawaii.edu/soestwp/"
+  company = "**Department of Atmospheric Sciences, SOEST, University of Hawaii at Mānoa**"
+  company_url = "http://www.soest.hawaii.edu/atmo/"
   location    = "Honolulu, Hawaii, USA"
   date_start  = "2016-10-06"
   date_end    = ""
@@ -50,11 +50,11 @@ date_format = "Jan 2006"
 
 [[experience]]
   title       = "Research Assistant"
-  company     = "LASG, Institute of Atmospheric Physics, Chinese Academy of Sciences"
+  company     = "**Institute of Atmospheric Physics, Chinese Academy of Sciences**"
   company_url = "http://www.iap.cas.cn/"
   location    = "Beijing, China"
   date_start  = "2011-09-01"
-  date_end    = "2016-09-01"
+  date_end    = "2016-07-01"
   description = """
   Research include:
 
