@@ -19,7 +19,7 @@ day_night = true
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
 # font = "default"
-font = ""
+font = "default"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -49,7 +49,7 @@ description = ""
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/media/` and reference its filename below. To disable, set the value to "".
-logo = "icon-32.png"
+logo = ""
 
 ############################
 ## Site Features
@@ -58,8 +58,8 @@ logo = "icon-32.png"
 # Enable source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
 highlight = true
-highlight_languages = ["r", "python"]  # Add support for highlighting additional languages
-# highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
+highlight_languages = ["r", "python", "matlab", "fortran"]  # Add support for highlighting additional languages
+highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
@@ -80,8 +80,7 @@ edit_page = {repo_url = "https://github.com/samclub/sen-homepage", repo_branch =
 
 
 # Show related content at the bottom of pages?
-show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
-
+show_related = {docs = false, page = false, post = true, project = true, publication = true, talk = true}
 
 ############################
 ## Contact details
@@ -180,7 +179,7 @@ copyright_license = {enable = false, allow_derivatives = false, share_alike = tr
 link_authors = true
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
-abstract_length = 135
+abstract_length = 200
 
 # Load CSS and JS plugins
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.

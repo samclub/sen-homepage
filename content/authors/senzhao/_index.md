@@ -14,8 +14,8 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of Hawaii at Mānoa
-  url: "https://manoa.hawaii.edu/"
+- name: Department of Atmospheric Sciences University of Hawaii at Mānoa
+  url: "http://www.soest.hawaii.edu/atmo/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest involves coupled dynamics for ENSO and global warming, and atmospheric teleconnections.

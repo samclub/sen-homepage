@@ -12,6 +12,7 @@ type: docs  # Do not modify.
 
 menu:
   clim_anom:
+    parent: climate
     name: Overview
     weight: 1
 ---

@@ -29,9 +29,11 @@
   weight = 50
 
 [[main]]
+  identifier = "climate"
   name = "Climate"
   url = "climate/"
   weight = 60
+
 
 [[main]]
   name = "Posts"
@@ -50,7 +52,21 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#  name = "CV"
-#  url = "files/cv-sen.pdf"
-#  weight = 110
+
+[[main]]
+  name = "CV"
+  url = "files/cv-sen.pdf"
+  weight = 110
+
+
+#[[main]]
+#  parent = "climate"
+#  name = "Atlas"
+#  url = "climate/clim_anom/"
+#  weight = 60
+
+#[[main]]
+#  parent = "climate"
+#  name = "Forecasts"
+#  url = "climate/forecast/"
+#  weight = 60

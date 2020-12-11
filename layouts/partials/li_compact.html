@@ -25,7 +25,7 @@
 {{ if $item.Params.summary }}
   {{ $summary = $item.Params.summary | markdownify | emojify }}
 {{ else if .Params.abstract }}
-  {{ $summary = .Params.abstract | markdownify | emojify }}
+  {{ $summary = .Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }}
 {{ else if $item.Truncated }}
   {{ $summary = $item.Summary }}
 {{ end }}

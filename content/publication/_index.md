@@ -15,10 +15,11 @@ header:
 ---
 
 {{% callout note %}}
-[My Google Scholar](https://scholar.google.com/citations?user=DSWiT8wAAAAJ) metrics (as of December 10, 2020)
 
+[My Google Scholar](https://scholar.google.com/citations?user=DSWiT8wAAAAJ) metrics (as of December 10, 2020)
 - h-index: 13;
 - total citations: 624;
-- total published peer reviewed articles: 33
 
 {{% /callout %}}
+
+
