@@ -9,6 +9,5 @@ featured: false
 publication: "**_Geophysical Monograph Series: El Niño Southern Oscillation in a Changing Climate_**. eds: A. Santoso, W. Cai, and M. J. McPhaden, 119-151"
 doi: "10.1002/9781119548164.ch6"
 tags: ["ENSO", "Bjerknes‐Wyrtki‐Jin index"]
-
-
+url_pdf: "files/pubs/9781119548164.ch6.pdf"
 ---
