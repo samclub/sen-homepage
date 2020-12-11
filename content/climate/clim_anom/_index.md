@@ -12,10 +12,11 @@ type: docs  # Do not modify.
 
 menu:
   clim_anom:
-    parent: climate
     name: Overview
     weight: 1
 ---
+
+The goal of the Atlas of Climatology and Anomaly is to provide the international scientific community and wider general public with an illustrative material in support of climate change studies.
 
 ## Datasets
 

@@ -14,7 +14,7 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Atmospheric Sciences University of Hawaii at Mānoa
+- name: Department of Atmospheric Sciences, University of Hawaii at Mānoa
   url: "http://www.soest.hawaii.edu/atmo/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -102,3 +102,4 @@ I am currently a post-doctoral fellow working with [Prof. Fei-Fei Jin](http://ww
 
 Before moving to Hawaii, I was working as a graduate research assistant with [Prof. Jianping Li](http://ljp.gcess.cn/dct/page/65544) at [LASG](http://www.lasg.ac.cn/english/), [Institute of Atmospheric Physics, Chinese Academy of Sciences](http://www.iap.cas.cn/) in Beijing, China. We **refined the theory of Rossby wave propagation on a horizontally non-uniform basic ﬂow (include both zonal and meridional flow)**. The new Rossby wave theory is valuable to understand the atmospheric teleconnections between the tropics and extra-tropics, and between the Northern Hemisphere and Southern Hemisphere, especially the linkages across the easterlies.
 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv-sen.pdf" "newtab" >}}resumé{{< /staticref >}}.

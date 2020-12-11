@@ -14,23 +14,31 @@ menu:
 ---
 
 <!-- {{% toc %}} -->
-# Monthly climatology
-## Mean
 
-{{< figure src="../figures/precip_clim_cmap_1981-2010.png" title="Monthly climatology of precipitation derived from CMAP" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
+## Climatology and variability
 
-## Standard deviation
-{{< figure src="../figures/precip_std_cmap_1981-2010.png" title="Interannual standard deviation of precipitation derived from CMAP" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
+### Annual
 
-# Seasonal anomaly
-## MAM
+{{< figure src="../figures/precip_annclim_cmap_1981-2010.png" title="Annual climatology of precipitation" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
+
+{{< figure src="../figures/precip_annstd_cmap_1981-2010.png" title="Standard deviation of precipitation" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
+
+### By month
+
+{{< figure src="../figures/precip_clim_cmap_1981-2010.png" title="Monthly climatology of precipitation" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
+
+{{< figure src="../figures/precip_std_cmap_1981-2010.png" title="Interannual standard deviation of precipitation" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
+
+## Seasonal anomaly
+
+### MAM
 {{< figure src="../figures/precipmam_anom_cmap_1980-2019.png" title="March-April-May precipitation anomaly" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
 
-## JJA
+### JJA
 {{< figure src="../figures/precipjja_anom_cmap_1980-2019.png" title="June-July-August precipitation anomaly" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
 
-## SON
+### SON
 {{< figure src="../figures/precipson_anom_cmap_1980-2019.png" title="September-October-November precipitation anomaly" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
 
-## DJF
+### DJF
 {{< figure src="../figures/precipdjf_anom_cmap_1980-2019.png" title="December-January-February precipitation anomaly" numbered="true" lightbox="true" width="100%"  lightbox-group="true">}}
