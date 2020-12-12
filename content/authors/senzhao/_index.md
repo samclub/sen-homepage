@@ -49,7 +49,7 @@ education:
 social:
 - icon: cv
   icon_pack: ai
-  link: files/cv_sen.pdf
+  link: cv_sen.pdf
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -102,4 +102,4 @@ I am currently a post-doctoral fellow working with [Prof. Fei-Fei Jin](http://ww
 
 Before moving to Hawaii, I was working as a graduate research assistant with [Prof. Jianping Li](http://ljp.gcess.cn/dct/page/65544) at [LASG](http://www.lasg.ac.cn/english/), [Institute of Atmospheric Physics, Chinese Academy of Sciences](http://www.iap.cas.cn/) in Beijing, China. We **refined the theory of Rossby wave propagation on a horizontally non-uniform basic ﬂow (include both zonal and meridional flow)**. The new Rossby wave theory is valuable to understand the atmospheric teleconnections between the tropics and extra-tropics, and between the Northern Hemisphere and Southern Hemisphere, especially the linkages across the easterlies.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv_sen.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "cv_sen.pdf" "newtab" >}}resumé{{< /staticref >}}.
