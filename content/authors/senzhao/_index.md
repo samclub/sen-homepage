@@ -98,7 +98,7 @@ user_groups:
 
 ---
 
-I am currently a post-doctoral fellow working with [Prof. Fei-Fei Jin](http://www.soest.hawaii.edu/met/Faculty/jff/Jin_feifei02010Jf.htm) at the [Department of Atmospheric Sciences](http://www.soest.hawaii.edu/atmo/) in [University of Hawai'i at Mānoa](http://manoa.hawaii.edu/). My research interest involves ocean-atmosphere coulped dynamics for El Niño-Southern Oscillation (ENSO) and global warming, seasonal predictions and atmospheric teleconnections.
+I am currently a post-doctoral fellow working with [Prof. Fei-Fei Jin](http://www.soest.hawaii.edu/met/Faculty/jff/Jin_feifei02010Jf.htm) at the [Department of Atmospheric Sciences](http://www.soest.hawaii.edu/atmo/) in [University of Hawai'i at Mānoa](http://manoa.hawaii.edu/). My research interest involves ocean-atmosphere coupled dynamics for El Niño-Southern Oscillation (ENSO) and global warming, seasonal predictions and atmospheric teleconnections.
 
 Before moving to Hawaii, I was working as a graduate research assistant with [Prof. Jianping Li](http://ljp.gcess.cn/dct/page/65544) at [LASG](http://www.lasg.ac.cn/english/), [Institute of Atmospheric Physics, Chinese Academy of Sciences](http://www.iap.cas.cn/) in Beijing, China. We **refined the theory of Rossby wave propagation on a horizontally non-uniform basic ﬂow (include both zonal and meridional flow)**. The new Rossby wave theory is valuable to understand the atmospheric teleconnections between the tropics and extra-tropics, and between the Northern Hemisphere and Southern Hemisphere, especially the linkages across the easterlies.
 

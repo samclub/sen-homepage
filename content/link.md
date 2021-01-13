@@ -43,13 +43,11 @@ projects: []
 - [Earth System CoG (AMIP, CMIP, PMIP)](https://www.earthsystemcog.org/projects/cog/)
 - **[NOAA TAO Array](https://www.pmel.noaa.gov/tao/drupal/disdel/)**
 
+
+
 ## Climate Atlas
 
-- [ERA-40 Atlas](https://software.ecmwf.int/static/ERA-40_Atlas/docs/index.html)
-- [JRA-55 Atlas](http://ds.data.jma.go.jp/gmd/jra/atlas/en/)
-- [JRA-25 Atlas](http://ds.data.jma.go.jp/gmd/jra/jra25_atlas/eng/atlas-tope.htm)
-- [NCEP CFSR Atlas](http://cfs.ncep.noaa.gov/cfsr/atlas/)
-- [NASA MERRA Atlas (menu, table)](https://gmao.gsfc.nasa.gov/ref/merra/atlas/)
+- [ERA-40 Atlas](https://sites.ecmwf.int/era/40-atlas/docs/)
 - [KNMI Climate Change Atlas](https://climexp.knmi.nl/plot_atlas_form.py)
 - [U.S. Climate Atlas](https://www.ncdc.noaa.gov/climateatlas/)
 
@@ -73,3 +71,11 @@ projects: []
 ## Others
 
 - [HTML Colors](https://htmlcolorcodes.com/color-names/)
+
+
+<!-- - 
+- [NASA MERRA Atlas (menu, table)](https://gmao.gsfc.nasa.gov/ref/merra/atlas/)
+- [JRA-55 Atlas](http://ds.data.jma.go.jp/gmd/jra/atlas/en/)
+- [JRA-25 Atlas](http://ds.data.jma.go.jp/gmd/jra/jra25_atlas/eng/atlas-tope.htm)
+- [NCEP CFSR Atlas](http://cfs.ncep.noaa.gov/cfsr/atlas/)
+-->
