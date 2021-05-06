@@ -6,8 +6,8 @@ authors: ["**Sen Zhao**", "Fei-Fei Jin", "Malte F. Stuecker"]
 publication_types: ["2"]
 abstract: "Despite recent progress in seasonal forecast systems, the predictive skill for the Indian Ocean Dipole (IOD) remains typically limited to a lead‐time of one season or less in both dynamical and empirical models. Here we develop a simple stochastic‐dynamical model (SDM) to predict the IOD using seasonally modulated El Niño‐Southern Oscillation (ENSO) forcing together with a seasonally modulated Indian Ocean coupled ocean‐atmosphere feedback. The SDM, with either observed or forecasted ENSO forcing, exhibits generally higher skill and longer lead times for predicting IOD events than the operational Climate Forecast System Version 2 and the SINTEX system. The improvements mainly originate from better prediction of ENSO‐dependent IOD events and from reducing false alarms. These results affirm our hypothesis that operational IOD predictability beyond persistence is largely controlled by ENSO predictability and the signal‐to‐noise ratio of the system. Therefore, potential future ENSO improvements in models should translate to more skillful IOD predictions."
 featured: true
-url_pdf: "https://www.researchgate.net/publication/335083500_Improved_Predictability_of_the_Indian_Ocean_Dipole_Using_Seasonally_Modulated_ENSO_Forcing_Forecasts"
-url_dataset: "https://doi.org/10.5281/zenodo.3251130"
+url_pdf: https://onlinelibrary.wiley.com/share/author/YMQSZPHTPTE9G7EBFSS6?target=10.1029/2019GL084196
+url_dataset: https://doi.org/10.5281/zenodo.3251130
 publication: "**_Geophysical Research Letters_**, 46(16):9980-9990"
 doi: "10.1029/2019GL084196"
 tags: ["IOD", "ENSO", "Seasonal Prediction"]

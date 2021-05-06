@@ -34,7 +34,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://journals.ametsoc.org/downloadpdf/journals/wefo/35/2/waf-d-19-0184.1.xml
 url_code:
 url_dataset:
 url_poster:
