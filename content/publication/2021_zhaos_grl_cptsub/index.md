@@ -14,7 +14,7 @@ publishDate: 2021-04-08T01:50:18.496584Z
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**_Geophysical Research Letters_**, in press"
+publication: "**_Geophysical Research Letters_**, 48(9), e2020GL092335"
 publication_short: ""
 
 abstract: "Recent classification of El Nino-Southern Oscillation (ENSO) into two types, Eastern (EP) and Central (CP) events, has highlighted the importance of the central Pacific. We show here that the local correlation between ENSO subsurface temperatures (Tsub) in the upper 100-m and thermocline depth anomalies breaks down in the central equatorial Pacific, whereas Tsub remains well correlated with sea surface height anomalies. This observed difference in the central equatorial Pacific is simulated by almost all climate models. It arises from a vertically slanted Tsub anomaly structure that is unique to the central equatorial Pacific. We show that this feature is an adiabatic response to wind-driving that is even present in a linear dynamic model, as long as the model has enough baroclinic modes to adequately represent the observed vertical complexity. Our findings have implications for better understanding the different importance of thermocline feedback in CP and EP events."
@@ -34,7 +34,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://onlinelibrary.wiley.com/share/author/XDMHQIXH3CC68BSF6KZS?target=10.1029/2020GL092335
 url_code:
 url_dataset:
 url_poster:
