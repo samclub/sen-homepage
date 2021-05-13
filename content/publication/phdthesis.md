@@ -2,6 +2,7 @@
 title: "Theory of Cross-Equatorial Propagation of Planetary Wave in Horizontally Non-Uniform Basic
 Flow and Its Applications in Atmospheric Teleconnections"
 authors: ["**Sen Zhao**"]
+first_author: true
 date: 2016-06-21
 doi: ""
 

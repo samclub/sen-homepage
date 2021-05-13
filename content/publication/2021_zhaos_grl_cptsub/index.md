@@ -3,6 +3,7 @@ title: "On the Breakdown of ENSO’s Relationship with Thermocline Depth in the 
 authors: ["**Sen Zhao**", "Fei-Fei Jin", "Xiaoyu Long", "Mark A. Cane"]
 date: 2021-04-06
 doi: "10.1029/2020GL092335"
+first_author: true
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-04-08T01:50:18.496584Z
@@ -10,7 +11,7 @@ publishDate: 2021-04-08T01:50:18.496584Z
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
+# 7 = Thesis; 8 = Patent; 9 = LeadAuthor
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
