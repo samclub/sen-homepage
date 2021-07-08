@@ -21,10 +21,11 @@ organizations:
 bio: My research interest involves coupled dynamics for ENSO and global warming, and atmospheric teleconnections.
 
 interests:
+- Climate Dynamics
+- Ocean-Atmosphere Interactions
+- El Niño
 - Atmospheric Teleconnections
-- Air-Sea Interactions
-- Seasonal Predictions
-- Wave Dynamics
+- Paleoclimate
 
 #- Ocean-Atmosphere Interactions
 # - Climate modes like El Niño, Indian Ocean Dipole, Pacific Decadal Oscillation
