@@ -12,6 +12,8 @@ lastmod: 2020-12-10
 featured: false
 draft: false
 share: false
+editable: true  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -42,6 +44,7 @@ projects: []
 - [APDRC SOEST Data](http://apdrc.soest.hawaii.edu/)
 - [Earth System CoG (AMIP, CMIP, PMIP)](https://www.earthsystemcog.org/projects/cog/)
 - **[NOAA TAO Array](https://www.pmel.noaa.gov/tao/drupal/disdel/)**
+
 
 
 ## Climate Atlas
@@ -75,11 +78,9 @@ projects: []
 
 ## Model Outputs
 
-- [ACCESS-OM2] https://dapds00.nci.org.au/thredds/catalogs/cj50/access-om2/cf-compliant/cf-compliant.html
+- [ACCESS-OM2](https://dapds00.nci.org.au/thredds/catalogs/cj50/access-om2/cf-compliant/cf-compliant.html)
 
-<!-- - 
-- [NASA MERRA Atlas (menu, table)](https://gmao.gsfc.nasa.gov/ref/merra/atlas/)
+<!-- - [NASA MERRA Atlas (menu, table)](https://gmao.gsfc.nasa.gov/ref/merra/atlas/)
 - [JRA-55 Atlas](http://ds.data.jma.go.jp/gmd/jra/atlas/en/)
 - [JRA-25 Atlas](http://ds.data.jma.go.jp/gmd/jra/jra25_atlas/eng/atlas-tope.htm)
-- [NCEP CFSR Atlas](http://cfs.ncep.noaa.gov/cfsr/atlas/)
--->
+- [NCEP CFSR Atlas](http://cfs.ncep.noaa.gov/cfsr/atlas/) -->

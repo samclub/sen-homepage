@@ -31,9 +31,17 @@ The WNWR package refines the Rossby wave theory to a **horizontally non-uniform 
 
 The WNWR package are described in the following papers, which should be referenced if you use WNWR package in publications:
 
-- Li, Y., J. Li, F. Jin, S. Zhao. 2015: [Interhemispheric propagation of the stationary Rossby waves in a horizontally non-uniform basic flow](https://doi.org/10.1175/JAS-D-14-0239.1). _J. Atmos. Sci._, **72**, 3233-3256
+
+{{< cite page="/publication/2015_lyj_jas_wave" view="4" >}}
+
+{{< cite page="/publication/2015_zhaos_jc_app" view="4" >}}
+
+
+<!-- - Li, Y., J. Li, F. Jin, S. Zhao. 2015: [Interhemispheric propagation of the stationary Rossby waves in a horizontally non-uniform basic flow](https://doi.org/10.1175/JAS-D-14-0239.1). _J. Atmos. Sci._, **72**, 3233-3256
 - Zhao, S., J. Li, and Y. Li (2015), [Dynamics of an interhemispheric teleconnection across the critical latitude through a southerly duct during boreal winter](https://doi.org/10.1175/JCLI-D-14-00425.1), _J. Climate_, **28**, 7437-7456
 - Li, Y., and J. Li, 2012: Propagation of planetary waves in the horizontal non-uniform basic ﬂow (in Chinese). _Chin. J. Geophys._, **55**, 361–371
+ -->
+
 
 We ask that you acknowledge us in your use of the WNWR package in any documents or publications. This may be done by including text in acknowledgement such as "**We are grateful to Prof. Jianping Li, Dr. Yanjie Li, and Dr. Sen Zhao making the Rossby wave tracing code readily available.**" Thank you!
 

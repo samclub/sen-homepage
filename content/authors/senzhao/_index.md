@@ -18,7 +18,7 @@ organizations:
   url: "http://www.soest.hawaii.edu/atmo/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest involves coupled dynamics for ENSO and global warming, and atmospheric teleconnections.
+bio: []
 
 interests:
 - Climate Dynamics
@@ -38,7 +38,7 @@ education:
   - course: PhD in Meteorology
     institution: Institute of Atmospheric Physics, Chinese Academy of Sciences
     year: 2016
-  - course: BS in College of Atmospheric Sciences and School of Mathematics and Statistics
+  - course: BS in Atmospheric Sciences
     institution: Lanzhou University
     year: 2011
 
@@ -59,7 +59,7 @@ social:
   link: https://scholar.google.com/citations?user=DSWiT8wAAAAJ
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Sen_Zhao5
+  link: https://www.researchgate.net/profile/Sen-Zhao-3
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-5597-1109
@@ -82,8 +82,7 @@ social:
 #   icon_pack: fab
 #   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "zhaos@hawaii.edu"

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active   = true  # Activate this widget? true/false
 weight   = 2  # Order that this section will appear.
 
-title = "Academic Experience"
+title = "Professional Experience"
 subtitle = ""
 
 # Date format for experience
@@ -35,15 +35,16 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Postdoctoral Fellow"
-  company = "**Department of Atmospheric Sciences, SOEST, University of Hawaii at Mānoa**"
+  company = "**Department of Atmospheric Sciences, University of Hawaii at Mānoa**"
   company_url = "http://www.soest.hawaii.edu/atmo/"
+  company_logo = "logo_uhmanoa"
   location    = "Honolulu, Hawaii, USA"
   date_start  = "2016-10-06"
   date_end    = ""
   description = """
   Research include:
 
-  * Ocean-atmosphere coupled dynamics for ENSO and global warming
+  * Ocean-atmosphere coupled dynamics for ENSO
   * Indian Ocean Dipole prediction skill
   * Developing a new intermediate coupled model
   """
@@ -52,14 +53,15 @@ date_format = "Jan 2006"
   title       = "Research Assistant"
   company     = "**Institute of Atmospheric Physics, Chinese Academy of Sciences**"
   company_url = "http://www.iap.cas.cn/"
+  company_logo = "logo_iap"
   location    = "Beijing, China"
   date_start  = "2011-09-01"
   date_end    = "2016-07-01"
   description = """
   Research include:
 
-  * Theory of cross-equatorial propagation of planetary wave in horizontally non-uniform basic ﬂow
   * Atmospheric teleconnections
+  * Theory of cross-equatorial propagation of planetary wave in horizontally non-uniform basic ﬂow
   * Decadal variation of wintertime haze in China
 
   """
